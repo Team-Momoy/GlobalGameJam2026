@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 085db41f782c483459cd5d562fc3a751
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 068bc7cf13c438a4094ae2711a26cfcc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Diagrama Martillo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1234
+      width: 444
+      height: 271
+    spriteID: 079f9a786d3cfa24e9b2527b94181b9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1234}
+    spritePosition: {x: 706, y: 415}
+  - name: Diagrama Hacha
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 959
+      width: 451
+      height: 267
+    spriteID: 1e0bbe1db5130bb4cb273218b489250f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 959}
+    spritePosition: {x: 1211, y: 412}
+  - name: Diagrama Lanza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 490
+      y: 4
+      width: 427
+      height: 233
+    spriteID: b84196274deace74fa3aac700edc6d02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 490, y: 4}
+    spritePosition: {x: 200, y: 70}
+  - name: Diagrama Escudo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1773
+      width: 432
+      height: 250
+    spriteID: 2fad76bb06b61954f80f0b82d29682fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1773}
+    spritePosition: {x: 719, y: 60}
+  - name: Diagrama Espada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1513
+      width: 431
+      height: 252
+    spriteID: 7641034780e9833409e88bc79c8fc682
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1513}
+    spritePosition: {x: 203, y: 421}
+  - name: Plano Espada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 53, y: 57, z: 57, w: 61}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 641
+      width: 476
+      height: 310
+    spriteID: e531a7178c19ec64183541482a48acfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -828, y: 641}
+    spritePosition: {x: 1201, y: 391}
+  - name: Plano Lanza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 63, y: 62, z: 64, w: 64}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 478
+      height: 310
+    spriteID: 5ccf4fd5860ca85419c8629a6c17833a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 693, y: 392}
+  - name: Plano hacha
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 63, y: 60, z: 59, w: 63}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 322
+      width: 476
+      height: 311
+    spriteID: 6a149e46882d3bc4ab974e63c5012467
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 322}
+    spritePosition: {x: 182, y: 391}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  generateTileAssets: 0
+  tilePaletteCellLayout: 0
+  tilePaletteHexagonLayout: 0
+  tilePaletteCellSize: {x: 1, y: 1, z: 0}
+  tilePaletteCellSizing: 0
+  transparencySortMode: 0
+  transparencySortAxis: {x: 0, y: 0, z: 1}
+  tileTemplate: {instanceID: 0}
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 1
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Planos
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 5b1d06a9a568ed24887b3a2484fc262d
+    layerID: 83
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Diagrama Martillo
+    spriteName: Diagrama Martillo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 079f9a786d3cfa24e9b2527b94181b9f
+    layerID: 81
+    mosaicPosition: {x: 4, y: 1234}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Diagrama Hacha
+    spriteName: Diagrama Hacha
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1e0bbe1db5130bb4cb273218b489250f
+    layerID: 63
+    mosaicPosition: {x: 4, y: 959}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Diagrama Lanza
+    spriteName: Diagrama Lanza
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b84196274deace74fa3aac700edc6d02
+    layerID: 65
+    mosaicPosition: {x: 490, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Diagrama Escudo
+    spriteName: Diagrama Escudo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2fad76bb06b61954f80f0b82d29682fe
+    layerID: 69
+    mosaicPosition: {x: 4, y: 1773}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Diagrama Espada
+    spriteName: Diagrama Espada
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7641034780e9833409e88bc79c8fc682
+    layerID: 74
+    mosaicPosition: {x: 4, y: 1513}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Plano Martillo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: fe16b7d5e9de0e54a9a6d2cdefde9edd
+    layerID: 80
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer51
+    spriteName: 
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 0921a2f4bb1eade4cadf5ef1fdadfb9c
+    layerID: 78
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer52
+    spriteName: 
+    isGroup: 0
+    parentIndex: 6
+    spriteID: e0b5573719f71314c9a7f92cf0e399ff
+    layerID: 79
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3a9a9e733e5a2d042a0adf024c923723
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Plano Espada
+    spriteName: Plano Espada
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e531a7178c19ec64183541482a48acfa
+    layerID: 10
+    mosaicPosition: {x: 4, y: 641}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Plano Lanza
+    spriteName: Plano Lanza
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5ccf4fd5860ca85419c8629a6c17833a
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Plano hacha
+    spriteName: Plano hacha
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6a149e46882d3bc4ab974e63c5012467
+    layerID: 8
+    mosaicPosition: {x: 4, y: 322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Plano Escudo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: b1961e03c1a6c0541998c3a53030c678
+    layerID: 62
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer35
+    spriteName: 
+    isGroup: 0
+    parentIndex: 13
+    spriteID: b30e162bdceed5e4c83aa3082bc9b88d
+    layerID: 50
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Folder2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 13
+    spriteID: 5f2102b33292a4947a9ea64777d68627
+    layerID: 82
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer43
+    spriteName: 
+    isGroup: 0
+    parentIndex: 13
+    spriteID: b6f8948577ab76447aac6b1ffe340fd4
+    layerID: 60
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Yunque
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: cf02c1162f38b2744a7831ee1fbf6925
+    layerID: 34
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer19
+    spriteName: 
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 3d8cccca4091acb45a3e1e9f21f5574b
+    layerID: 28
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer23
+    spriteName: 
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 1f1197c733ed94e42ac98f32b0fffd4a
+    layerID: 35
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer22
+    spriteName: 
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 16e4663b5644b5b438ffbd708bc3734f
+    layerID: 33
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer21
+    spriteName: 
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 27824c3bee6f06147a244a986630ec81
+    layerID: 31
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer33
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c0fa794116695724c84cf92216b01521
+    layerID: 48
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Placa dorada
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 236814194e4863842b47aaadfd542269
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer31
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 6f59ca9b631ca6f4caec9394e11ba0e1
+    layerID: 46
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer32
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 104dee548a17ff140a922d292a727841
+    layerID: 47
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Coso que se mueve
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 38c0c0346c0c48746b9dbf0f9712315f
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer55
+    spriteName: 
+    isGroup: 0
+    parentIndex: 26
+    spriteID: 3e785f09f26beaa479f090390abdc521
+    layerID: 88
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Aguja
+    spriteName: 
+    isGroup: 0
+    parentIndex: 26
+    spriteID: e5f92582a86a10f48897755ee8950fe5
+    layerID: 42
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Marcas
+    spriteName: 
+    isGroup: 0
+    parentIndex: 26
+    spriteID: 7a98d4a7a6c091f4992c9176a814dbaa
+    layerID: 86
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: linea
+    spriteName: 
+    isGroup: 0
+    parentIndex: 26
+    spriteID: 8414fbe8a15432649af997583d585df4
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: color
+    spriteName: 
+    isGroup: 0
+    parentIndex: 26
+    spriteID: 36316c659d995c24285926554d3a0104
+    layerID: 41
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: blanco
+    spriteName: 
+    isGroup: 0
+    parentIndex: 26
+    spriteID: 4f20e3709b9a176419c1aed351683ae7
+    layerID: 40
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer5
+    spriteName: Plano Espada
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 325e27ae6ee9b0d41bdc26363cca26e9
+    layerID: 6
+    mosaicPosition: {x: 583, y: 322}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer2
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f36b1d4cf5722a744893c3c128f77c59
+    layerID: 3
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer3
+    spriteName: Plano Hacha
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4c7da224c76ec144aa933952cdf53398
+    layerID: 4
+    mosaicPosition: {x: 583, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer4
+    spriteName: Plano Lanza
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4bc8f65d11246e24c979b9d78c7afa58
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer1
+    spriteName: agujerito precio copy 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4cf6bb06433203c40a0edfdc2128c1da
+    layerID: 2
+    mosaicPosition: {x: 1737, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Background
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9380d3a916afe2e4f985cc3eb2be00eb
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

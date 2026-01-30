@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: d12b219d8eab3ce4a9e65ed5bd61806b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -55157509753375888
+    second: Maza_punta_punteada_0
+  - first:
+      213: -1091959167705389850
+    second: Maza_punta_punteada_1
+  - first:
+      213: 93189219211922466
+    second: Maza_punta_punteada_2
+  - first:
+      213: -5837062530714986573
+    second: Maza_punta_punteada_3
+  - first:
+      213: 2984877728730028192
+    second: Maza_punta_punteada_4
+  - first:
+      213: 5770744095228570006
+    second: Maza_punta_punteada_5
+  - first:
+      213: 1300455456111986872
+    second: Maza_punta_punteada_6
+  - first:
+      213: -374853368671074054
+    second: Maza_punta_punteada_7
+  - first:
+      213: -7380479614701287018
+    second: Maza_punta_punteada_8
+  - first:
+      213: -595251987102394235
+    second: Maza_punta_punteada_9
+  - first:
+      213: 430296286275606541
+    second: Maza_punta_punteada_10
+  - first:
+      213: 7987390364859753032
+    second: Maza_punta_punteada_11
+  - first:
+      213: 3644466840443540876
+    second: Maza_punta_punteada_12
+  - first:
+      213: 1416989120365421686
+    second: Maza_punta_punteada_13
+  - first:
+      213: -6369365681638064738
+    second: Maza_punta_punteada_14
+  - first:
+      213: 1492952913335829505
+    second: Maza_punta_punteada_15
+  - first:
+      213: 3278565274395679872
+    second: Maza_punta_punteada_16
+  - first:
+      213: 4878038148043905541
+    second: Maza_punta_punteada_17
+  - first:
+      213: -4809773281299271015
+    second: Maza_punta_punteada_18
+  - first:
+      213: 2014465893154329202
+    second: Maza_punta_punteada_19
+  - first:
+      213: 5454968695660681340
+    second: Maza_punta_punteada_20
+  - first:
+      213: -7898917791466673512
+    second: Maza_punta_punteada_21
+  - first:
+      213: 4233874192431926237
+    second: Maza_punta_punteada_22
+  - first:
+      213: -262785081938936124
+    second: Maza_punta_punteada_23
+  - first:
+      213: -5137568819502349408
+    second: Maza_punta_punteada_24
+  - first:
+      213: -1465195863361589731
+    second: Maza_punta_punteada_25
+  - first:
+      213: -3092294267301587271
+    second: Maza_punta_punteada_26
+  - first:
+      213: 7809352315744091868
+    second: Maza_punta_punteada_27
+  - first:
+      213: 582930628242457771
+    second: Maza_punta_punteada_28
+  - first:
+      213: -8715801693842547066
+    second: Maza_punta_punteada_29
+  - first:
+      213: 8740693172767243834
+    second: Maza_punta_punteada_30
+  - first:
+      213: 8572552437305632987
+    second: Maza_punta_punteada_31
+  - first:
+      213: 6870082865102687882
+    second: Maza_punta_punteada_32
+  - first:
+      213: 4943280752420600784
+    second: Maza_punta_punteada_33
+  - first:
+      213: 5599494709180805440
+    second: Maza_punta_punteada_34
+  - first:
+      213: -8330800232029520396
+    second: Maza_punta_punteada_35
+  - first:
+      213: 3060421251605333215
+    second: Maza_punta_punteada_36
+  - first:
+      213: 1052689338051609733
+    second: Maza_punta_punteada_37
+  - first:
+      213: 8007961668760864232
+    second: Maza_punta_punteada_38
+  - first:
+      213: 6339424444117470622
+    second: Maza_punta_punteada_39
+  - first:
+      213: -2304619355926012321
+    second: Maza_punta_punteada_40
+  - first:
+      213: 8423877315602178326
+    second: Maza_punta_punteada_41
+  - first:
+      213: 3891354999663009905
+    second: Maza_punta_punteada_42
+  - first:
+      213: -5251617796481178838
+    second: Maza_punta_punteada_43
+  - first:
+      213: 8152784037718206493
+    second: Maza_punta_punteada_44
+  - first:
+      213: 4756919099114959535
+    second: Maza_punta_punteada_45
+  - first:
+      213: -2995604614003911511
+    second: Maza_punta_punteada_46
+  - first:
+      213: -8915285730867293686
+    second: Maza_punta_punteada_47
+  - first:
+      213: 2915609102822406797
+    second: Maza_punta_punteada_48
+  - first:
+      213: -3055263181580512274
+    second: Maza_punta_punteada_49
+  - first:
+      213: 8247378663069804100
+    second: Maza_punta_punteada_50
+  - first:
+      213: 1238890455193239322
+    second: Maza_punta_punteada_51
+  - first:
+      213: -9203685468054195934
+    second: Maza_punta_punteada_52
+  - first:
+      213: -8034861357614292233
+    second: Maza_punta_punteada_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maza_punta_punteada_0
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2721
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0737470898a0c3ff0800000000000000
+      internalID: -55157509753375888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2601
+        width: 136
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e460b32ce498d0f0800000000000000
+      internalID: -1091959167705389850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2592
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cc504e9131b4100800000000000000
+      internalID: 93189219211922466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2647
+        width: 140
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b79dfced869efea0800000000000000
+      internalID: -5837062530714986573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_4
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2649
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a89deeca7a6c6920800000000000000
+      internalID: 2984877728730028192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_5
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2598
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69928cd0e2dc51050800000000000000
+      internalID: 5770744095228570006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2601
+        width: 137
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b806c3e8552c0210800000000000000
+      internalID: 1300455456111986872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2476
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af88085e8d04ccaf0800000000000000
+      internalID: -374853368671074054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_8
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2482
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699c7b5d4e4439990800000000000000
+      internalID: -7380479614701287018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2367
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5889ae4b87d3db7f0800000000000000
+      internalID: -595251987102394235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2371
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0890ab4138b8f500800000000000000
+      internalID: 430296286275606541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2275
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842e7d3c739e8de60800000000000000
+      internalID: 7987390364859753032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_12
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2279
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d35c384fb39230800000000000000
+      internalID: 3644466840443540876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2145
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67469f1f8182aa310800000000000000
+      internalID: 1416989120365421686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2187
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d366da8a77b97a0800000000000000
+      internalID: -6369365681638064738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_15
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2227
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10444c1c3c808b410800000000000000
+      internalID: 1492952913335829505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_16
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2143
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c19491fbdcf7d20800000000000000
+      internalID: 3278565274395679872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2058
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a16f6c9d542b340800000000000000
+      internalID: 4878038148043905541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_18
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2056
+        width: 57
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992fdf51fa0404db0800000000000000
+      internalID: -4809773281299271015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1933
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2729a958e02d4fb10800000000000000
+      internalID: 2014465893154329202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_20
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1928
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781bb58021f3bb40800000000000000
+      internalID: 5454968695660681340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1863
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aad917e18616290800000000000000
+      internalID: -7898917791466673512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_22
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1864
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb499f552eb1ca30800000000000000
+      internalID: 4233874192431926237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1747
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef1ca3c566a5cf0800000000000000
+      internalID: -262785081938936124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_24
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1851
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a38070f060b3b8b0800000000000000
+      internalID: -5137568819502349408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_25
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1733
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee5fd00249aabe0800000000000000
+      internalID: -1465195863361589731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_26
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1832
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b613806fb6f515d0800000000000000
+      internalID: -3092294267301587271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1747
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdefcc13e84606c60800000000000000
+      internalID: 7809352315744091868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_28
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1663
+        width: 117
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba44611615cf61800800000000000000
+      internalID: 582930628242457771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1740
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e54c9a9804b0780800000000000000
+      internalID: -8715801693842547066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1600
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e3975612e2d4970800000000000000
+      internalID: 8740693172767243834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_31
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1600
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e20cb503d7f670800000000000000
+      internalID: 8572552437305632987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_32
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1659
+        width: 120
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e81ff67ff675f50800000000000000
+      internalID: 6870082865102687882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1520
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db3e0957af0a9440800000000000000
+      internalID: 4943280752420600784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_34
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1515
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b66645c665bd40800000000000000
+      internalID: 5599494709180805440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_35
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1520
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd7323d35d036c80800000000000000
+      internalID: -8330800232029520396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_36
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1401
+        width: 160
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd40efcd9ecc87a20800000000000000
+      internalID: 3060421251605333215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_37
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1273
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58448652067eb9e00800000000000000
+      internalID: 1052689338051609733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_38
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1273
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e58f61b5bef12f60800000000000000
+      internalID: 8007961668760864232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1140
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dcc08b1f82af750800000000000000
+      internalID: 6339424444117470622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_40
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1140
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5a8bf7e85400e0800000000000000
+      internalID: -2304619355926012321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 983
+        width: 34
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61160f379cf97e470800000000000000
+      internalID: 8423877315602178326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_42
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 983
+        width: 35
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170aad141ced00630800000000000000
+      internalID: 3891354999663009905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_43
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 821
+        width: 34
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23ae9830718e17b0800000000000000
+      internalID: -5251617796481178838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_44
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 821
+        width: 34
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182ba213e1842170800000000000000
+      internalID: 8152784037718206493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_45
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 639
+        width: 34
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2b408a7b8f30240800000000000000
+      internalID: 4756919099114959535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_46
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 639
+        width: 35
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a496c699797d66d0800000000000000
+      internalID: -2995604614003911511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_47
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 443
+        width: 34
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02db8cecda864480800000000000000
+      internalID: -8915285730867293686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_48
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 443
+        width: 35
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aff9d0803567820800000000000000
+      internalID: 2915609102822406797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_49
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 279
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee35096e2568995d0800000000000000
+      internalID: -3055263181580512274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_50
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 279
+        width: 34
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44669649233947270800000000000000
+      internalID: 8247378663069804100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_51
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 114
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f3a691e4c613110800000000000000
+      internalID: 1238890455193239322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_52
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 112
+        width: 34
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221743c74d0f54080800000000000000
+      internalID: -9203685468054195934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maza_punta_punteada_53
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 181
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f223ef6a207e7090800000000000000
+      internalID: -8034861357614292233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maza_punta_punteada_0: -55157509753375888
+      Maza_punta_punteada_1: -1091959167705389850
+      Maza_punta_punteada_10: 430296286275606541
+      Maza_punta_punteada_11: 7987390364859753032
+      Maza_punta_punteada_12: 3644466840443540876
+      Maza_punta_punteada_13: 1416989120365421686
+      Maza_punta_punteada_14: -6369365681638064738
+      Maza_punta_punteada_15: 1492952913335829505
+      Maza_punta_punteada_16: 3278565274395679872
+      Maza_punta_punteada_17: 4878038148043905541
+      Maza_punta_punteada_18: -4809773281299271015
+      Maza_punta_punteada_19: 2014465893154329202
+      Maza_punta_punteada_2: 93189219211922466
+      Maza_punta_punteada_20: 5454968695660681340
+      Maza_punta_punteada_21: -7898917791466673512
+      Maza_punta_punteada_22: 4233874192431926237
+      Maza_punta_punteada_23: -262785081938936124
+      Maza_punta_punteada_24: -5137568819502349408
+      Maza_punta_punteada_25: -1465195863361589731
+      Maza_punta_punteada_26: -3092294267301587271
+      Maza_punta_punteada_27: 7809352315744091868
+      Maza_punta_punteada_28: 582930628242457771
+      Maza_punta_punteada_29: -8715801693842547066
+      Maza_punta_punteada_3: -5837062530714986573
+      Maza_punta_punteada_30: 8740693172767243834
+      Maza_punta_punteada_31: 8572552437305632987
+      Maza_punta_punteada_32: 6870082865102687882
+      Maza_punta_punteada_33: 4943280752420600784
+      Maza_punta_punteada_34: 5599494709180805440
+      Maza_punta_punteada_35: -8330800232029520396
+      Maza_punta_punteada_36: 3060421251605333215
+      Maza_punta_punteada_37: 1052689338051609733
+      Maza_punta_punteada_38: 8007961668760864232
+      Maza_punta_punteada_39: 6339424444117470622
+      Maza_punta_punteada_4: 2984877728730028192
+      Maza_punta_punteada_40: -2304619355926012321
+      Maza_punta_punteada_41: 8423877315602178326
+      Maza_punta_punteada_42: 3891354999663009905
+      Maza_punta_punteada_43: -5251617796481178838
+      Maza_punta_punteada_44: 8152784037718206493
+      Maza_punta_punteada_45: 4756919099114959535
+      Maza_punta_punteada_46: -2995604614003911511
+      Maza_punta_punteada_47: -8915285730867293686
+      Maza_punta_punteada_48: 2915609102822406797
+      Maza_punta_punteada_49: -3055263181580512274
+      Maza_punta_punteada_5: 5770744095228570006
+      Maza_punta_punteada_50: 8247378663069804100
+      Maza_punta_punteada_51: 1238890455193239322
+      Maza_punta_punteada_52: -9203685468054195934
+      Maza_punta_punteada_53: -8034861357614292233
+      Maza_punta_punteada_6: 1300455456111986872
+      Maza_punta_punteada_7: -374853368671074054
+      Maza_punta_punteada_8: -7380479614701287018
+      Maza_punta_punteada_9: -595251987102394235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

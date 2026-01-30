@@ -1,0 +1,654 @@
+fileFormatVersion: 2
+guid: b3d0391ac34b78d45a8a68019c973190
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1025902323036295596
+    second: Personajes_color_plano_0
+  - first:
+      213: 4526716716048339951
+    second: Personajes_color_plano_1
+  - first:
+      213: -631775500257864222
+    second: Personajes_color_plano_2
+  - first:
+      213: -7589366070371982117
+    second: Personajes_color_plano_3
+  - first:
+      213: -2890725286879473824
+    second: Personajes_color_plano_4
+  - first:
+      213: -3154172319291855120
+    second: Personajes_color_plano_5
+  - first:
+      213: 5803995899093849447
+    second: Personajes_color_plano_6
+  - first:
+      213: 8450564389964814619
+    second: Personajes_color_plano_7
+  - first:
+      213: -3532997279118123992
+    second: Personajes_color_plano_8
+  - first:
+      213: -3803168205842828435
+    second: Personajes_color_plano_9
+  - first:
+      213: 6977833626400835890
+    second: Personajes_color_plano_10
+  - first:
+      213: -2961964201100881416
+    second: Personajes_color_plano_11
+  - first:
+      213: 384225704486373357
+    second: Personajes_color_plano_12
+  - first:
+      213: -4106050344261713064
+    second: Personajes_color_plano_13
+  - first:
+      213: -1076776048998663298
+    second: Personajes_color_plano_14
+  - first:
+      213: 1997058747250167532
+    second: Personajes_color_plano_15
+  - first:
+      213: 197455886085967545
+    second: Personajes_color_plano_16
+  - first:
+      213: -7398777069522635032
+    second: Personajes_color_plano_17
+  - first:
+      213: 3788172037963952640
+    second: Personajes_color_plano_18
+  - first:
+      213: 5109873072377693712
+    second: Personajes_color_plano_19
+  - first:
+      213: -873029138340334870
+    second: Personajes_color_plano_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personajes_color_plano_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 782
+        width: 656
+        height: 631
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6c2dc54343c1f0800000000000000
+      internalID: -1025902323036295596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_1
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 785
+        width: 620
+        height: 777
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe352e2aed022de30800000000000000
+      internalID: 4526716716048339951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_3
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 790
+        width: 650
+        height: 737
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd46319e4c72da690800000000000000
+      internalID: -7589366070371982117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_4
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 794
+        width: 560
+        height: 761
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4f44daa412e7d0800000000000000
+      internalID: -2890725286879473824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_5
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 793
+        width: 568
+        height: 651
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe2d34bcf02a34d0800000000000000
+      internalID: -3154172319291855120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_6
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 816
+        width: 499
+        height: 696
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7651053f48feb8050800000000000000
+      internalID: 5803995899093849447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_7
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 821
+        width: 457
+        height: 665
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b191b672a8f664570800000000000000
+      internalID: 8450564389964814619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_8
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 820
+        width: 429
+        height: 591
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c1eb971b548fec0800000000000000
+      internalID: -3532997279118123992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_9
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 830
+        width: 319
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bda5baae683bc0800000000000000
+      internalID: -3803168205842828435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_10
+      rect:
+        serializedVersion: 2
+        x: 5374
+        y: 804
+        width: 543
+        height: 695
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239c56b86be36d060800000000000000
+      internalID: 6977833626400835890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 656
+        height: 590
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f155f3904df4e6d0800000000000000
+      internalID: -2961964201100881416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_12
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 548
+        height: 775
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70c751e3b055500800000000000000
+      internalID: 384225704486373357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_13
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 11
+        width: 622
+        height: 656
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853096877f06407c0800000000000000
+      internalID: -4106050344261713064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_14
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 19
+        width: 496
+        height: 633
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b39c073e58e01f0800000000000000
+      internalID: -1076776048998663298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_15
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 18
+        width: 539
+        height: 669
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceece69895af6bb10800000000000000
+      internalID: 1997058747250167532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_16
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 29
+        width: 558
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bec6fc05118db200800000000000000
+      internalID: 197455886085967545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_17
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 56
+        width: 357
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e63cc6a473425990800000000000000
+      internalID: -7398777069522635032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_18
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 51
+        width: 465
+        height: 666
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b8eed56a429430800000000000000
+      internalID: 3788172037963952640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_19
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 43
+        width: 486
+        height: 743
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016086e6c7ae9e640800000000000000
+      internalID: 5109873072377693712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_color_plano_20
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 52
+        width: 438
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2b8aacf9062e3f0800000000000000
+      internalID: -873029138340334870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 09da4c533728df5448cb61cb88513c7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Personajes_color_plano_0: -1025902323036295596
+      Personajes_color_plano_1: 4526716716048339951
+      Personajes_color_plano_10: 6977833626400835890
+      Personajes_color_plano_11: -2961964201100881416
+      Personajes_color_plano_12: 384225704486373357
+      Personajes_color_plano_13: -4106050344261713064
+      Personajes_color_plano_14: -1076776048998663298
+      Personajes_color_plano_15: 1997058747250167532
+      Personajes_color_plano_16: 197455886085967545
+      Personajes_color_plano_17: -7398777069522635032
+      Personajes_color_plano_18: 3788172037963952640
+      Personajes_color_plano_19: 5109873072377693712
+      Personajes_color_plano_2: -631775500257864222
+      Personajes_color_plano_20: -873029138340334870
+      Personajes_color_plano_3: -7589366070371982117
+      Personajes_color_plano_4: -2890725286879473824
+      Personajes_color_plano_5: -3154172319291855120
+      Personajes_color_plano_6: 5803995899093849447
+      Personajes_color_plano_7: 8450564389964814619
+      Personajes_color_plano_8: -3532997279118123992
+      Personajes_color_plano_9: -3803168205842828435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

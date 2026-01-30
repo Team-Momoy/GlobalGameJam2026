@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: a3f01186d61bed143a30404257152894
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1990206393495886005
+    second: Espada_punteada_0
+  - first:
+      213: 7022413328054116906
+    second: Espada_punteada_1
+  - first:
+      213: -7754322578590503469
+    second: Espada_punteada_2
+  - first:
+      213: -3898035278415825545
+    second: Espada_punteada_3
+  - first:
+      213: -1689169781496322067
+    second: Espada_punteada_4
+  - first:
+      213: -2977404564087518097
+    second: Espada_punteada_5
+  - first:
+      213: 7306143419736623747
+    second: Espada_punteada_6
+  - first:
+      213: 6337925346839937676
+    second: Espada_punteada_7
+  - first:
+      213: 645576337445926570
+    second: Espada_punteada_8
+  - first:
+      213: 8783853871009790310
+    second: Espada_punteada_9
+  - first:
+      213: -3081398639619861567
+    second: Espada_punteada_10
+  - first:
+      213: 8979334910334360501
+    second: Espada_punteada_11
+  - first:
+      213: -2553770380794073158
+    second: Espada_punteada_12
+  - first:
+      213: 9214299616996172139
+    second: Espada_punteada_13
+  - first:
+      213: 2736452885430315153
+    second: Espada_punteada_14
+  - first:
+      213: -4846218085265505350
+    second: Espada_punteada_15
+  - first:
+      213: -5338982201937965533
+    second: Espada_punteada_16
+  - first:
+      213: 6384113949007409602
+    second: Espada_punteada_17
+  - first:
+      213: 6159672855382504988
+    second: Espada_punteada_18
+  - first:
+      213: -1967831839646502437
+    second: Espada_punteada_19
+  - first:
+      213: -7005974282845038263
+    second: Espada_punteada_20
+  - first:
+      213: 6057955769372171072
+    second: Espada_punteada_21
+  - first:
+      213: 7661529994233608645
+    second: Espada_punteada_22
+  - first:
+      213: -932693538186502563
+    second: Espada_punteada_23
+  - first:
+      213: -1300348287126748303
+    second: Espada_punteada_24
+  - first:
+      213: -8383839120084019366
+    second: Espada_punteada_25
+  - first:
+      213: 1506625013597811797
+    second: Espada_punteada_26
+  - first:
+      213: 8767084757730270046
+    second: Espada_punteada_27
+  - first:
+      213: 1703193406295285794
+    second: Espada_punteada_28
+  - first:
+      213: 895694383567389475
+    second: Espada_punteada_29
+  - first:
+      213: -1733013626357531172
+    second: Espada_punteada_30
+  - first:
+      213: -4789485580146045172
+    second: Espada_punteada_31
+  - first:
+      213: -3322945859163139366
+    second: Espada_punteada_32
+  - first:
+      213: -6929886685005659869
+    second: Espada_punteada_33
+  - first:
+      213: 6262860255766468242
+    second: Espada_punteada_34
+  - first:
+      213: 8007861466814326144
+    second: Espada_punteada_35
+  - first:
+      213: 1835452489783974052
+    second: Espada_punteada_36
+  - first:
+      213: -5194021789674687412
+    second: Espada_punteada_37
+  - first:
+      213: -2238612883826693146
+    second: Espada_punteada_38
+  - first:
+      213: -6595216916108788034
+    second: Espada_punteada_39
+  - first:
+      213: -1072751214788293277
+    second: Espada_punteada_40
+  - first:
+      213: -7933617620525572747
+    second: Espada_punteada_41
+  - first:
+      213: -4289544204511565543
+    second: Espada_punteada_42
+  - first:
+      213: -5789188477999955210
+    second: Espada_punteada_43
+  - first:
+      213: 3937544827857444513
+    second: Espada_punteada_44
+  - first:
+      213: -5567073192713083937
+    second: Espada_punteada_45
+  - first:
+      213: -7728010740448692661
+    second: Espada_punteada_46
+  - first:
+      213: -4042741655150744533
+    second: Espada_punteada_47
+  - first:
+      213: -3857309874206009559
+    second: Espada_punteada_48
+  - first:
+      213: 8319186124263785524
+    second: Espada_punteada_49
+  - first:
+      213: -2081687664449978267
+    second: Espada_punteada_50
+  - first:
+      213: 5321525410340514919
+    second: Espada_punteada_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Espada_punteada_0
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2548
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8980a9b22ae9b10800000000000000
+      internalID: 1990206393495886005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2473
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2262ac27bf947160800000000000000
+      internalID: 7022413328054116906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2473
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd625de2bc136490800000000000000
+      internalID: -7754322578590503469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2336
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7757514219567e9c0800000000000000
+      internalID: -3898035278415825545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2336
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76698880dde88e0800000000000000
+      internalID: -1689169781496322067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2173
+        width: 50
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ccfece2522ea6d0800000000000000
+      internalID: -2977404564087518097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2173
+        width: 50
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a857b0bb2a46560800000000000000
+      internalID: 7306143419736623747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2011
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82c65fe585d4f750800000000000000
+      internalID: 6337925346839937676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2011
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6bcdc224c85f800800000000000000
+      internalID: 645576337445926570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1855
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6697a7c8e8486e970800000000000000
+      internalID: 8783853871009790310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_10
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1855
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c31612634cac35d0800000000000000
+      internalID: -3081398639619861567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1694
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb5eb1c6810d9c70800000000000000
+      internalID: 8979334910334360501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1694
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfeade7e5f2f8cd0800000000000000
+      internalID: -2553770380794073158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1526
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b612315aea4cfdf70800000000000000
+      internalID: 9214299616996172139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1526
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198aaa4a665d9f520800000000000000
+      internalID: 2736452885430315153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1367
+        width: 36
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab30dabe356cebcb0800000000000000
+      internalID: -4846218085265505350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1367
+        width: 36
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eca5779ff18e5b0800000000000000
+      internalID: -5338982201937965533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1192
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1f338efcde89850800000000000000
+      internalID: 6384113949007409602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1192
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b0bd93dd8b7550800000000000000
+      internalID: 6159672855382504988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1038
+        width: 34
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1ba2c2e5bd0b4e0800000000000000
+      internalID: -1967831839646502437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_20
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1038
+        width: 34
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949df7d4287c5ce90800000000000000
+      internalID: -7005974282845038263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 909
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd4720dae221450800000000000000
+      internalID: 6057955769372171072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 909
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c97b4eefe8335a60800000000000000
+      internalID: 7661529994233608645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 788
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e571c2b286e03f0800000000000000
+      internalID: -932693538186502563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 786
+        width: 99
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c5855f1c34fde0800000000000000
+      internalID: -1300348287126748303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 788
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a575e516dbe96ab80800000000000000
+      internalID: -8383839120084019366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 667
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5543739a77b98e410800000000000000
+      internalID: 1506625013597811797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 695
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b114c1321faa970800000000000000
+      internalID: 8767084757730270046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 697
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220a40e0165f2a710800000000000000
+      internalID: 1703193406295285794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 695
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c8d7db452e6c00800000000000000
+      internalID: 895694383567389475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_30
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 697
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3c0ae94913f7e0800000000000000
+      internalID: -1733013626357531172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_31
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 695
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f0a8a9d34588db0800000000000000
+      internalID: -4789485580146045172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_32
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 667
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2d9b8c85682e1d0800000000000000
+      internalID: -3322945859163139366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321478ea6c814df90800000000000000
+      internalID: -6929886685005659869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 519
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2965fd678362ae650800000000000000
+      internalID: 6262860255766468242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 537
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a10c9393a12f60800000000000000
+      internalID: 8007861466814326144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 533
+        width: 171
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a81ea79056d87910800000000000000
+      internalID: 1835452489783974052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_37
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 537
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c443dce83b02be7b0800000000000000
+      internalID: -5194021789674687412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_38
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 519
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba5ed5179dee0e0800000000000000
+      internalID: -2238612883826693146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_39
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 555
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe30b268251974a0800000000000000
+      internalID: -6595216916108788034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_40
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 433
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dcc2e2472dc11f0800000000000000
+      internalID: -1072751214788293277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_41
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 449
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d1bc8eec026e190800000000000000
+      internalID: -7933617620525572747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_42
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 433
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a0c1e54a7874c0800000000000000
+      internalID: -4289544204511565543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 343
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2470f60cba8afa0800000000000000
+      internalID: -5789188477999955210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 343
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9e9fa828f4a630800000000000000
+      internalID: 3937544827857444513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_45
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 234
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3acb54d68cdb2b0800000000000000
+      internalID: -5567073192713083937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 234
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46f6232d2790c490800000000000000
+      internalID: -7728010740448692661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 97
+        width: 34
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ca01e42eb45e7c0800000000000000
+      internalID: -4042741655150744533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_48
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 97
+        width: 34
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92718573b15187ac0800000000000000
+      internalID: -3857309874206009559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_49
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340a1df3bfa37370800000000000000
+      internalID: 8319186124263785524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_50
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608523391c5c13e0800000000000000
+      internalID: -2081687664449978267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_punteada_51
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76caf828a2bd9d940800000000000000
+      internalID: 5321525410340514919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Espada_punteada_0: 1990206393495886005
+      Espada_punteada_1: 7022413328054116906
+      Espada_punteada_10: -3081398639619861567
+      Espada_punteada_11: 8979334910334360501
+      Espada_punteada_12: -2553770380794073158
+      Espada_punteada_13: 9214299616996172139
+      Espada_punteada_14: 2736452885430315153
+      Espada_punteada_15: -4846218085265505350
+      Espada_punteada_16: -5338982201937965533
+      Espada_punteada_17: 6384113949007409602
+      Espada_punteada_18: 6159672855382504988
+      Espada_punteada_19: -1967831839646502437
+      Espada_punteada_2: -7754322578590503469
+      Espada_punteada_20: -7005974282845038263
+      Espada_punteada_21: 6057955769372171072
+      Espada_punteada_22: 7661529994233608645
+      Espada_punteada_23: -932693538186502563
+      Espada_punteada_24: -1300348287126748303
+      Espada_punteada_25: -8383839120084019366
+      Espada_punteada_26: 1506625013597811797
+      Espada_punteada_27: 8767084757730270046
+      Espada_punteada_28: 1703193406295285794
+      Espada_punteada_29: 895694383567389475
+      Espada_punteada_3: -3898035278415825545
+      Espada_punteada_30: -1733013626357531172
+      Espada_punteada_31: -4789485580146045172
+      Espada_punteada_32: -3322945859163139366
+      Espada_punteada_33: -6929886685005659869
+      Espada_punteada_34: 6262860255766468242
+      Espada_punteada_35: 8007861466814326144
+      Espada_punteada_36: 1835452489783974052
+      Espada_punteada_37: -5194021789674687412
+      Espada_punteada_38: -2238612883826693146
+      Espada_punteada_39: -6595216916108788034
+      Espada_punteada_4: -1689169781496322067
+      Espada_punteada_40: -1072751214788293277
+      Espada_punteada_41: -7933617620525572747
+      Espada_punteada_42: -4289544204511565543
+      Espada_punteada_43: -5789188477999955210
+      Espada_punteada_44: 3937544827857444513
+      Espada_punteada_45: -5567073192713083937
+      Espada_punteada_46: -7728010740448692661
+      Espada_punteada_47: -4042741655150744533
+      Espada_punteada_48: -3857309874206009559
+      Espada_punteada_49: 8319186124263785524
+      Espada_punteada_5: -2977404564087518097
+      Espada_punteada_50: -2081687664449978267
+      Espada_punteada_51: 5321525410340514919
+      Espada_punteada_6: 7306143419736623747
+      Espada_punteada_7: 6337925346839937676
+      Espada_punteada_8: 645576337445926570
+      Espada_punteada_9: 8783853871009790310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

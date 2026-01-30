@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c1eb39763f5f0a14b8a77e0ebbc79758
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4486833503844198610
+    second: Escudo_punteado_0
+  - first:
+      213: -4244509026699212694
+    second: Escudo_punteado_1
+  - first:
+      213: 6332183595703527940
+    second: Escudo_punteado_2
+  - first:
+      213: -3825255465892784412
+    second: Escudo_punteado_3
+  - first:
+      213: 2745589870128893961
+    second: Escudo_punteado_4
+  - first:
+      213: 6250793867443574197
+    second: Escudo_punteado_5
+  - first:
+      213: -5611481255362088281
+    second: Escudo_punteado_6
+  - first:
+      213: -3884998729316337520
+    second: Escudo_punteado_7
+  - first:
+      213: -3369547687558744093
+    second: Escudo_punteado_8
+  - first:
+      213: -3904560119759867411
+    second: Escudo_punteado_9
+  - first:
+      213: -2490834021360470011
+    second: Escudo_punteado_10
+  - first:
+      213: 3161246657139507990
+    second: Escudo_punteado_11
+  - first:
+      213: 1508804853269631888
+    second: Escudo_punteado_12
+  - first:
+      213: -6507079682893529624
+    second: Escudo_punteado_13
+  - first:
+      213: 5212648792940423966
+    second: Escudo_punteado_14
+  - first:
+      213: 4877757993809844992
+    second: Escudo_punteado_15
+  - first:
+      213: -7714949921480037893
+    second: Escudo_punteado_16
+  - first:
+      213: 4191569305113280433
+    second: Escudo_punteado_17
+  - first:
+      213: 3263765728409899131
+    second: Escudo_punteado_18
+  - first:
+      213: -3623612795808042540
+    second: Escudo_punteado_19
+  - first:
+      213: 5839843596372497619
+    second: Escudo_punteado_20
+  - first:
+      213: 2095225457768614289
+    second: Escudo_punteado_21
+  - first:
+      213: 407194569459962266
+    second: Escudo_punteado_22
+  - first:
+      213: 7731649216188522888
+    second: Escudo_punteado_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Escudo_punteado_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1495
+        width: 153
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e279b0553b09bb1c0800000000000000
+      internalID: -4486833503844198610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1526
+        width: 285
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6887a157897815c0800000000000000
+      internalID: -4244509026699212694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_2
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1496
+        width: 153
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ae6725e6f60e750800000000000000
+      internalID: 6332183595703527940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1391
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6d65cbb66f9eac0800000000000000
+      internalID: -3825255465892784412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1455
+        width: 156
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90091fba07b4a1620800000000000000
+      internalID: 2745589870128893961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_5
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1455
+        width: 156
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b51a2187e74fb650800000000000000
+      internalID: 6250793867443574197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1391
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2316677830022b0800000000000000
+      internalID: -5611481255362088281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1235
+        width: 43
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09871424d36b51ac0800000000000000
+      internalID: -3884998729316337520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_8
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1235
+        width: 43
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e772551b36fc31d0800000000000000
+      internalID: -3369547687558744093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 34
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de17e81224730d9c0800000000000000
+      internalID: -3904560119759867411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_10
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1024
+        width: 34
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508f95297a7ce6dd0800000000000000
+      internalID: -2490834021360470011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 806
+        width: 50
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613013ee5110fdb20800000000000000
+      internalID: 3161246657139507990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_12
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 805
+        width: 50
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939582250a50f410800000000000000
+      internalID: 1508804853269631888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 599
+        width: 71
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed38ff118532b5a0800000000000000
+      internalID: -6507079682893529624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 598
+        width: 71
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b251a957c075840800000000000000
+      internalID: 5212648792940423966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 406
+        width: 100
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b9b594d0741b340800000000000000
+      internalID: 4877757993809844992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_16
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 405
+        width: 100
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf921460cedfee490800000000000000
+      internalID: -7714949921480037893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 123
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf35ba33127b2a30800000000000000
+      internalID: 4191569305113280433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_18
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 245
+        width: 123
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7057f743a93b4d20800000000000000
+      internalID: 3263765728409899131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 126
+        width: 136
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d13d466c5756bdc0800000000000000
+      internalID: -3623612795808042540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 43
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d45f916fca4b0150800000000000000
+      internalID: 5839843596372497619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_21
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 42
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19947aee37cb31d10800000000000000
+      internalID: 2095225457768614289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_22
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 125
+        width: 136
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a911123bd45a6a500800000000000000
+      internalID: 407194569459962266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo_punteado_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88128d28ff55c4b60800000000000000
+      internalID: 7731649216188522888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Escudo_punteado_0: -4486833503844198610
+      Escudo_punteado_1: -4244509026699212694
+      Escudo_punteado_10: -2490834021360470011
+      Escudo_punteado_11: 3161246657139507990
+      Escudo_punteado_12: 1508804853269631888
+      Escudo_punteado_13: -6507079682893529624
+      Escudo_punteado_14: 5212648792940423966
+      Escudo_punteado_15: 4877757993809844992
+      Escudo_punteado_16: -7714949921480037893
+      Escudo_punteado_17: 4191569305113280433
+      Escudo_punteado_18: 3263765728409899131
+      Escudo_punteado_19: -3623612795808042540
+      Escudo_punteado_2: 6332183595703527940
+      Escudo_punteado_20: 5839843596372497619
+      Escudo_punteado_21: 2095225457768614289
+      Escudo_punteado_22: 407194569459962266
+      Escudo_punteado_23: 7731649216188522888
+      Escudo_punteado_3: -3825255465892784412
+      Escudo_punteado_4: 2745589870128893961
+      Escudo_punteado_5: 6250793867443574197
+      Escudo_punteado_6: -5611481255362088281
+      Escudo_punteado_7: -3884998729316337520
+      Escudo_punteado_8: -3369547687558744093
+      Escudo_punteado_9: -3904560119759867411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

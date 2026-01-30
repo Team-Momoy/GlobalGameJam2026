@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: c4522fca8f78279478da3002ece6b3e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3197369868757218184
+    second: Luces_personajes 1_0
+  - first:
+      213: -6438347249212804774
+    second: Luces_personajes 1_1
+  - first:
+      213: 1154737128111744875
+    second: Luces_personajes 1_2
+  - first:
+      213: 1732498241323016007
+    second: Luces_personajes 1_3
+  - first:
+      213: -3451949192169805779
+    second: Luces_personajes 1_4
+  - first:
+      213: -8114862828626871020
+    second: Luces_personajes 1_5
+  - first:
+      213: 4389548154950632257
+    second: Luces_personajes 1_6
+  - first:
+      213: -5389301367109963485
+    second: Luces_personajes 1_7
+  - first:
+      213: -4317859918682744652
+    second: Luces_personajes 1_8
+  - first:
+      213: 4159824902482207133
+    second: Luces_personajes 1_9
+  - first:
+      213: -1136824559014722687
+    second: Luces_personajes 1_10
+  - first:
+      213: 2310790977782671815
+    second: Luces_personajes 1_11
+  - first:
+      213: 581031856019065402
+    second: Luces_personajes 1_12
+  - first:
+      213: 5504783135846094603
+    second: Luces_personajes 1_13
+  - first:
+      213: -202690822844328389
+    second: Luces_personajes 1_14
+  - first:
+      213: -5181226508753261991
+    second: Luces_personajes 1_15
+  - first:
+      213: -1368813288459588140
+    second: Luces_personajes 1_16
+  - first:
+      213: -3298044090609615795
+    second: Luces_personajes 1_17
+  - first:
+      213: 3164143202699735149
+    second: Luces_personajes 1_18
+  - first:
+      213: -5513617950200095743
+    second: Luces_personajes 1_19
+  - first:
+      213: -5871352879278278844
+    second: Luces_personajes 1_20
+  - first:
+      213: 8258283870636459654
+    second: Luces_personajes 1_21
+  - first:
+      213: 1808619856281138753
+    second: Luces_personajes 1_22
+  - first:
+      213: -5091715032367839030
+    second: Luces_personajes 1_23
+  - first:
+      213: -3102573612311821141
+    second: Luces_personajes 1_24
+  - first:
+      213: 6840185440888708461
+    second: Luces_personajes 1_25
+  - first:
+      213: -7054207505229965842
+    second: Luces_personajes 1_26
+  - first:
+      213: -6479856578898020620
+    second: Luces_personajes 1_27
+  - first:
+      213: 5347708356680706910
+    second: Luces_personajes 1_28
+  - first:
+      213: -175655775621162883
+    second: Luces_personajes 1_29
+  - first:
+      213: 6627273666658262704
+    second: Luces_personajes 1_30
+  - first:
+      213: -5181522682747640239
+    second: Luces_personajes 1_31
+  - first:
+      213: 5411927183421371919
+    second: Luces_personajes 1_32
+  - first:
+      213: 856042023840390246
+    second: Luces_personajes 1_33
+  - first:
+      213: -6478058708267867156
+    second: Luces_personajes 1_34
+  - first:
+      213: -84987032930075186
+    second: Luces_personajes 1_35
+  - first:
+      213: -6762115329100035322
+    second: Luces_personajes 1_36
+  - first:
+      213: 5213525812488911642
+    second: Luces_personajes 1_37
+  - first:
+      213: 5570962480771397050
+    second: Luces_personajes 1_38
+  - first:
+      213: -8605543934094550753
+    second: Luces_personajes 1_39
+  - first:
+      213: -4231205627796719650
+    second: Luces_personajes 1_40
+  - first:
+      213: -5644083614299158855
+    second: Luces_personajes 1_41
+  - first:
+      213: 1135521804358885776
+    second: Luces_personajes 1_42
+  - first:
+      213: -6246614946069649944
+    second: Luces_personajes 1_43
+  - first:
+      213: 5329782400672643444
+    second: Luces_personajes 1_44
+  - first:
+      213: 2198870724676382431
+    second: Luces_personajes 1_45
+  - first:
+      213: 7258346683946957605
+    second: Luces_personajes 1_46
+  - first:
+      213: 8987267793464393687
+    second: Luces_personajes 1_47
+  - first:
+      213: -3257770886281234648
+    second: Luces_personajes 1_48
+  - first:
+      213: 4374613549107031004
+    second: Luces_personajes 1_49
+  - first:
+      213: 2347918943821706749
+    second: Luces_personajes 1_50
+  - first:
+      213: -3040282605720522415
+    second: Luces_personajes 1_51
+  - first:
+      213: 684683706846350205
+    second: Luces_personajes 1_52
+  - first:
+      213: 6651050098808280589
+    second: Luces_personajes 1_53
+  - first:
+      213: -6193268615750274740
+    second: Luces_personajes 1_54
+  - first:
+      213: 4747818898147156173
+    second: Luces_personajes 1_55
+  - first:
+      213: -4860369315362517401
+    second: Luces_personajes 1_56
+  - first:
+      213: 2572912744743868342
+    second: Luces_personajes 1_57
+  - first:
+      213: -990070780624451131
+    second: Luces_personajes 1_58
+  - first:
+      213: -4339216559360904821
+    second: Luces_personajes 1_59
+  - first:
+      213: 3382037319066259659
+    second: Luces_personajes 1_60
+  - first:
+      213: -3124796088969038246
+    second: Luces_personajes 1_61
+  - first:
+      213: -4896288209577971310
+    second: Luces_personajes 1_62
+  - first:
+      213: -6084624641198232972
+    second: Luces_personajes 1_63
+  - first:
+      213: 3406556757831341973
+    second: Luces_personajes 1_64
+  - first:
+      213: 8301365389241126297
+    second: Luces_personajes 1_65
+  - first:
+      213: 8261664231151421544
+    second: Luces_personajes 1_66
+  - first:
+      213: -7028428617671148524
+    second: Luces_personajes 1_67
+  - first:
+      213: -4691971265953406857
+    second: Luces_personajes 1_68
+  - first:
+      213: -6589600204281057519
+    second: Luces_personajes 1_69
+  - first:
+      213: 4514829569446494279
+    second: Luces_personajes 1_70
+  - first:
+      213: -6641742867825211817
+    second: Luces_personajes 1_71
+  - first:
+      213: -6320042903682141982
+    second: Luces_personajes 1_72
+  - first:
+      213: -5171021252197580811
+    second: Luces_personajes 1_73
+  - first:
+      213: -4701572250589923679
+    second: Luces_personajes 1_74
+  - first:
+      213: 63032033553174466
+    second: Luces_personajes 1_75
+  - first:
+      213: 5011571452830963417
+    second: Luces_personajes 1_76
+  - first:
+      213: 4367542131610849377
+    second: Luces_personajes 1_77
+  - first:
+      213: -9176946793608376423
+    second: Luces_personajes 1_78
+  - first:
+      213: -1808431329510503573
+    second: Luces_personajes 1_79
+  - first:
+      213: -6840258303240597001
+    second: Luces_personajes 1_80
+  - first:
+      213: -4692605215672233798
+    second: Luces_personajes 1_81
+  - first:
+      213: -6886283406348811592
+    second: Luces_personajes 1_82
+  - first:
+      213: 8761318009202380923
+    second: Luces_personajes 1_83
+  - first:
+      213: -4008209093290729306
+    second: Luces_personajes 1_84
+  - first:
+      213: -880289347627415494
+    second: Luces_personajes 1_85
+  - first:
+      213: 135438641436061737
+    second: Luces_personajes 1_86
+  - first:
+      213: 446364942270718580
+    second: Luces_personajes 1_87
+  - first:
+      213: 6170355089081126339
+    second: Luces_personajes 1_88
+  - first:
+      213: -4903798011600840098
+    second: Luces_personajes 1_89
+  - first:
+      213: -2647953277601193746
+    second: Luces_personajes 1_90
+  - first:
+      213: -3976476883110760675
+    second: Luces_personajes 1_91
+  - first:
+      213: 4764535605109447715
+    second: Luces_personajes 1_92
+  - first:
+      213: -4497743885058338771
+    second: Luces_personajes 1_93
+  - first:
+      213: -4328294270037318290
+    second: Luces_personajes 1_94
+  - first:
+      213: -1964652896289709931
+    second: Luces_personajes 1_95
+  - first:
+      213: 8453597695062006915
+    second: Luces_personajes 1_96
+  - first:
+      213: -5569490885265604971
+    second: Luces_personajes 1_97
+  - first:
+      213: -5788786217453450287
+    second: Luces_personajes 1_98
+  - first:
+      213: 596594965110197800
+    second: Luces_personajes 1_99
+  - first:
+      213: 8999180212532025697
+    second: Luces_personajes 1_100
+  - first:
+      213: -4660128009018481505
+    second: Luces_personajes 1_101
+  - first:
+      213: -3686212990882300580
+    second: Luces_personajes 1_102
+  - first:
+      213: 901117708282058226
+    second: Luces_personajes 1_103
+  - first:
+      213: -6466925350859482615
+    second: Luces_personajes 1_104
+  - first:
+      213: -8150787354964050553
+    second: Luces_personajes 1_105
+  - first:
+      213: -2703942977214524964
+    second: Luces_personajes 1_106
+  - first:
+      213: -7612327289504468761
+    second: Luces_personajes 1_107
+  - first:
+      213: -4455735878215808799
+    second: Luces_personajes 1_108
+  - first:
+      213: -5091692062804533889
+    second: Luces_personajes 1_109
+  - first:
+      213: 8768661620735105356
+    second: Luces_personajes 1_110
+  - first:
+      213: 2900346914242256907
+    second: Luces_personajes 1_111
+  - first:
+      213: -6762896454840971049
+    second: Luces_personajes 1_112
+  - first:
+      213: -6010068705954957276
+    second: Luces_personajes 1_113
+  - first:
+      213: 506980239304798766
+    second: Luces_personajes 1_114
+  - first:
+      213: 1782764132924744982
+    second: Luces_personajes 1_115
+  - first:
+      213: -4259321169775572332
+    second: Luces_personajes 1_116
+  - first:
+      213: 3524855159434048266
+    second: Luces_personajes 1_117
+  - first:
+      213: -1518938191107647771
+    second: Luces_personajes 1_118
+  - first:
+      213: -113441979868878368
+    second: Luces_personajes 1_119
+  - first:
+      213: 8665337574981658997
+    second: Luces_personajes 1_120
+  - first:
+      213: -2976587285730918671
+    second: Luces_personajes 1_121
+  - first:
+      213: 6275405898229665579
+    second: Luces_personajes 1_122
+  - first:
+      213: -7165855289894778653
+    second: Luces_personajes 1_123
+  - first:
+      213: -3958699477723498664
+    second: Luces_personajes 1_124
+  - first:
+      213: -6338781118636544443
+    second: Luces_personajes 1_125
+  - first:
+      213: 6058314261538203605
+    second: Luces_personajes 1_126
+  - first:
+      213: -2312712267011254229
+    second: Luces_personajes 1_127
+  - first:
+      213: 2036757932140884829
+    second: Luces_personajes 1_128
+  - first:
+      213: -867715003615846647
+    second: Luces_personajes 1_129
+  - first:
+      213: -148537298733244394
+    second: Luces_personajes 1_130
+  - first:
+      213: -2370145130225254012
+    second: Luces_personajes 1_131
+  - first:
+      213: 1636428647837132107
+    second: Luces_personajes 1_132
+  - first:
+      213: 6016581400574420883
+    second: Luces_personajes 1_133
+  - first:
+      213: 5834787440359048518
+    second: Luces_personajes 1_134
+  - first:
+      213: -8825930005569502084
+    second: Luces_personajes 1_135
+  - first:
+      213: 3905236645672748970
+    second: Luces_personajes 1_136
+  - first:
+      213: -4613072178760974306
+    second: Luces_personajes 1_137
+  - first:
+      213: -5035875540079032657
+    second: Luces_personajes 1_138
+  - first:
+      213: 6556579964875835288
+    second: Luces_personajes 1_139
+  - first:
+      213: -4337144075576857247
+    second: Luces_personajes 1_140
+  - first:
+      213: -1244771171384894913
+    second: Luces_personajes 1_141
+  - first:
+      213: -326957442669619480
+    second: Luces_personajes 1_142
+  - first:
+      213: -5033461463859470488
+    second: Luces_personajes 1_143
+  - first:
+      213: 4403864197809403251
+    second: Luces_personajes 1_144
+  - first:
+      213: 6996859191673703146
+    second: Luces_personajes 1_145
+  - first:
+      213: -1803102338177902620
+    second: Luces_personajes 1_146
+  - first:
+      213: 721466335766537398
+    second: Luces_personajes 1_147
+  - first:
+      213: -1029451459789741205
+    second: Luces_personajes 1_148
+  - first:
+      213: -8465061401383244142
+    second: Luces_personajes 1_149
+  - first:
+      213: 3684703164448277706
+    second: Luces_personajes 1_150
+  - first:
+      213: -1005166049763224648
+    second: Luces_personajes 1_151
+  - first:
+      213: 2277887435259264454
+    second: Luces_personajes 1_152
+  - first:
+      213: -1114557717324303165
+    second: Luces_personajes 1_153
+  - first:
+      213: 3778992189478478596
+    second: Luces_personajes 1_154
+  - first:
+      213: -2594128442810090604
+    second: Luces_personajes 1_155
+  - first:
+      213: -4327240133562584397
+    second: Luces_personajes 1_156
+  - first:
+      213: 3273097500173025882
+    second: Luces_personajes 1_157
+  - first:
+      213: 3893707696975535413
+    second: Luces_personajes 1_158
+  - first:
+      213: -4560682691387956933
+    second: Luces_personajes 1_159
+  - first:
+      213: -5471286468559412011
+    second: Luces_personajes 1_160
+  - first:
+      213: 4528454872781602943
+    second: Luces_personajes 1_161
+  - first:
+      213: 3843927136286334246
+    second: Luces_personajes 1_162
+  - first:
+      213: 4387751266082207169
+    second: Luces_personajes 1_163
+  - first:
+      213: -2623749146067562064
+    second: Luces_personajes 1_164
+  - first:
+      213: -498322963286476087
+    second: Luces_personajes 1_165
+  - first:
+      213: 3873081593455668411
+    second: Luces_personajes 1_166
+  - first:
+      213: 6671783801166705856
+    second: Luces_personajes 1_167
+  - first:
+      213: -8641811733201529376
+    second: Luces_personajes 1_168
+  - first:
+      213: 6057030538789678761
+    second: Luces_personajes 1_169
+  - first:
+      213: 856580186172737901
+    second: Luces_personajes 1_170
+  - first:
+      213: 3582751298579236847
+    second: Luces_personajes 1_171
+  - first:
+      213: -1548170450746515439
+    second: Luces_personajes 1_172
+  - first:
+      213: -2711308581055956329
+    second: Luces_personajes 1_173
+  - first:
+      213: -2945134867803844877
+    second: Luces_personajes 1_174
+  - first:
+      213: -5514339368507579076
+    second: Luces_personajes 1_175
+  - first:
+      213: -6932485119177072260
+    second: Luces_personajes 1_176
+  - first:
+      213: -4077658505396818566
+    second: Luces_personajes 1_177
+  - first:
+      213: -5477530050930341212
+    second: Luces_personajes 1_178
+  - first:
+      213: -8121952460269149020
+    second: Luces_personajes 1_179
+  - first:
+      213: -3601438708246768518
+    second: Luces_personajes 1_180
+  - first:
+      213: 5858746217173398657
+    second: Luces_personajes 1_181
+  - first:
+      213: 8465397447004908261
+    second: Luces_personajes 1_182
+  - first:
+      213: -4968162363179565648
+    second: Luces_personajes 1_183
+  - first:
+      213: 7379524478426080688
+    second: Luces_personajes 1_184
+  - first:
+      213: 3488072823517327657
+    second: Luces_personajes 1_185
+  - first:
+      213: -5737403627661508442
+    second: Luces_personajes 1_186
+  - first:
+      213: -7464001246053052879
+    second: Luces_personajes 1_187
+  - first:
+      213: -8034209165504595498
+    second: Luces_personajes 1_188
+  - first:
+      213: 6404882190803855472
+    second: Luces_personajes 1_189
+  - first:
+      213: -4832417959394562271
+    second: Luces_personajes 1_190
+  - first:
+      213: 5182651163277724096
+    second: Luces_personajes 1_191
+  - first:
+      213: -6788149989521356616
+    second: Luces_personajes 1_192
+  - first:
+      213: 3066472159155040849
+    second: Luces_personajes 1_193
+  - first:
+      213: -7964450949563910365
+    second: Luces_personajes 1_194
+  - first:
+      213: 9009614326450054573
+    second: Luces_personajes 1_195
+  - first:
+      213: 6890591971982693453
+    second: Luces_personajes 1_196
+  - first:
+      213: 9214999978449377844
+    second: Luces_personajes 1_197
+  - first:
+      213: -2996798706564090173
+    second: Luces_personajes 1_198
+  - first:
+      213: 5161286636432155044
+    second: Luces_personajes 1_199
+  - first:
+      213: 7546391029713308044
+    second: Luces_personajes 1_200
+  - first:
+      213: 3684349882887091102
+    second: Luces_personajes 1_201
+  - first:
+      213: 2898658451799524434
+    second: Luces_personajes 1_202
+  - first:
+      213: -6826816914891671989
+    second: Luces_personajes 1_203
+  - first:
+      213: -8358009729166554582
+    second: Luces_personajes 1_204
+  - first:
+      213: 6491888121637644704
+    second: Luces_personajes 1_205
+  - first:
+      213: -8107948146635390315
+    second: Luces_personajes 1_206
+  - first:
+      213: 1380869400754222244
+    second: Luces_personajes 1_207
+  - first:
+      213: -4908238649084075020
+    second: Luces_personajes 1_208
+  - first:
+      213: -8683166205183047995
+    second: Luces_personajes 1_209
+  - first:
+      213: -655006090014786161
+    second: Luces_personajes 1_210
+  - first:
+      213: -7619415724559763102
+    second: Luces_personajes 1_211
+  - first:
+      213: 6556173424671501199
+    second: Luces_personajes 1_212
+  - first:
+      213: 2290064138796229332
+    second: Luces_personajes 1_213
+  - first:
+      213: 8879768968964275269
+    second: Luces_personajes 1_214
+  - first:
+      213: 3696801649808557550
+    second: Luces_personajes 1_215
+  - first:
+      213: 1082799252586383924
+    second: Luces_personajes 1_216
+  - first:
+      213: -1306888447192995536
+    second: Luces_personajes 1_217
+  - first:
+      213: 4349844071619447323
+    second: Luces_personajes 1_218
+  - first:
+      213: 702505398919253526
+    second: Luces_personajes 1_219
+  - first:
+      213: -203722455213715879
+    second: Luces_personajes 1_220
+  - first:
+      213: -1555940709342421470
+    second: Luces_personajes 1_221
+  - first:
+      213: 6606130073718671299
+    second: Luces_personajes 1_222
+  - first:
+      213: 6597043744229385141
+    second: Luces_personajes 1_223
+  - first:
+      213: -7373001480707611013
+    second: Luces_personajes 1_224
+  - first:
+      213: 6759387036274946294
+    second: Luces_personajes 1_225
+  - first:
+      213: -7818026628665188418
+    second: Luces_personajes 1_226
+  - first:
+      213: -2237492009676780346
+    second: Luces_personajes 1_227
+  - first:
+      213: 3989949213623225979
+    second: Luces_personajes 1_228
+  - first:
+      213: -6337920308896384160
+    second: Luces_personajes 1_229
+  - first:
+      213: 511755670725844373
+    second: Luces_personajes 1_230
+  - first:
+      213: 5060510994744521589
+    second: Luces_personajes 1_231
+  - first:
+      213: 318617179227064675
+    second: Luces_personajes 1_232
+  - first:
+      213: 5806374767043543883
+    second: Luces_personajes 1_233
+  - first:
+      213: -329020954465913871
+    second: Luces_personajes 1_234
+  - first:
+      213: -7700317656368622584
+    second: Luces_personajes 1_235
+  - first:
+      213: -2313553302209138363
+    second: Luces_personajes 1_236
+  - first:
+      213: 203101461997123961
+    second: Luces_personajes 1_237
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luces_personajes 1_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 778
+        width: 658
+        height: 784
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883bfca84f65f5c20800000000000000
+      internalID: 3197369868757218184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_1
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 781
+        width: 604
+        height: 781
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51be06e94566a6a0800000000000000
+      internalID: -6438347249212804774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 787
+        width: 655
+        height: 742
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f1c08a8f11b0810800000000000000
+      internalID: 1732498241323016007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_4
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 790
+        width: 567
+        height: 767
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28a50abf763810d0800000000000000
+      internalID: -3451949192169805779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_5
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 790
+        width: 571
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d7ca27047326f80800000000000000
+      internalID: -8114862828626871020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_6
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 812
+        width: 505
+        height: 702
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143cd444acecaec30800000000000000
+      internalID: 4389548154950632257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_7
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 818
+        width: 460
+        height: 671
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32132e9d5fa5535b0800000000000000
+      internalID: -5389301367109963485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_8
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 818
+        width: 434
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8940de741e314c0800000000000000
+      internalID: -4317859918682744652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_9
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 828
+        width: 324
+        height: 648
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91a64885baaab930800000000000000
+      internalID: 4159824902482207133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_10
+      rect:
+        serializedVersion: 2
+        x: 5373
+        y: 803
+        width: 546
+        height: 698
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183ccf336103930f0800000000000000
+      internalID: -1136824559014722687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 659
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ac335056d301800800000000000000
+      internalID: 581031856019065402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 552
+        height: 778
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07daa1b81be46c40800000000000000
+      internalID: 5504783135846094603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_14
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 8
+        width: 627
+        height: 661
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d12145c5ef2df0800000000000000
+      internalID: -202690822844328389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_15
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 17
+        width: 502
+        height: 639
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aacec01f59818b0800000000000000
+      internalID: -5181226508753261991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_16
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 17
+        width: 546
+        height: 673
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd2881019ff00de0800000000000000
+      internalID: -1368813288459588140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_17
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 27
+        width: 564
+        height: 645
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c33a59f5efa32d0800000000000000
+      internalID: -3298044090609615795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_18
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 55
+        width: 362
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60726f7a7b49eb20800000000000000
+      internalID: 3164143202699735149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_19
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 48
+        width: 468
+        height: 671
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c1b1bcfa1bb73b0800000000000000
+      internalID: -5513617950200095743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_20
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 39
+        width: 493
+        height: 748
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447b6aff9a3c48ea0800000000000000
+      internalID: -5871352879278278844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces_personajes 1_21
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 49
+        width: 443
+        height: 648
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686cf931d615b9270800000000000000
+      internalID: 8258283870636459654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57c5454734c59784d9c23e353e180db9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Luces_personajes 1_0: 3197369868757218184
+      Luces_personajes 1_1: -6438347249212804774
+      Luces_personajes 1_10: -1136824559014722687
+      Luces_personajes 1_11: 2310790977782671815
+      Luces_personajes 1_12: 581031856019065402
+      Luces_personajes 1_13: 5504783135846094603
+      Luces_personajes 1_14: -202690822844328389
+      Luces_personajes 1_15: -5181226508753261991
+      Luces_personajes 1_16: -1368813288459588140
+      Luces_personajes 1_17: -3298044090609615795
+      Luces_personajes 1_18: 3164143202699735149
+      Luces_personajes 1_19: -5513617950200095743
+      Luces_personajes 1_2: 1154737128111744875
+      Luces_personajes 1_20: -5871352879278278844
+      Luces_personajes 1_21: 8258283870636459654
+      Luces_personajes 1_3: 1732498241323016007
+      Luces_personajes 1_4: -3451949192169805779
+      Luces_personajes 1_5: -8114862828626871020
+      Luces_personajes 1_6: 4389548154950632257
+      Luces_personajes 1_7: -5389301367109963485
+      Luces_personajes 1_8: -4317859918682744652
+      Luces_personajes 1_9: 4159824902482207133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,33 @@
+Key,English,Spanish
+Game.UI.Materials,Materials,Materiales
+Game.Material.Blunt,Blunt item {0},Objeto contundente {0}
+Game.Material.Handle,Handle {0},Mango {0}
+Game.Material.Guard,Guard {0},Guarda {0}
+Game.Material.Sharp,Sharp item {0},Objeto filoso {0}
+Game.Material.Defensive,Defensive item {0},Objeto defensivo {0}
+Game.Material.Piercing,Piercing item {0},Objeto punzante {0}
+Game.Material.Cutting,Cutting item {0},Objeto cortante {0}
+Game.Crafting.Hit,Hit X{0},Golpe X{0}
+Game.UI.Preparation,Preparation,Preparación
+Game.UI.SelectRecipe,Select,Seleccionar
+,,
+,,
+Game.UI.ClosedSign,Closed,Cerrado
+,,
+,,
+,,
+Game.Item.Tooltip.Blunt,<size=30><sprite=4></size><space=3> <voffset=5>Blunt</voffset>,<size=30><sprite=4></size><space=3> <voffset=5>Contundente</voffset>
+Game.Item.Tooltip.Handle,<size=30><sprite=5></size><space=3> <voffset=5>Handle</voffset>,<size=30><sprite=5></size><space=3> <voffset=5>Mango</voffset>
+Game.Item.Tooltip.Guard,<size=30><sprite=1></size><space=3> <voffset=5>Guard</voffset>,<size=30><sprite=1></size><space=3> <voffset=5>Guarda</voffset>
+Game.Item.Tooltip.Sharp,<size=30><sprite=7></size><space=3> <voffset=5>Sharp</voffset>,<size=30><sprite=7></size><space=3> <voffset=5>Filoso</voffset>
+Game.Item.Tooltip.Defensive,<size=30><sprite=6></size><space=3> <voffset=5>Defensive</voffset>,<size=30><sprite=6></size><space=3> <voffset=5>Defensivo</voffset>
+Game.Item.Tooltip.Piercing,<size=30><sprite=3></size><space=3> <voffset=5>Piercing</voffset>,<size=30><sprite=3></size><space=3> <voffset=5>Punzante</voffset>
+Game.Item.Tooltip.Cutting,<size=30><sprite=2></size><space=3> <voffset=5>Cutting</voffset>,<size=30><sprite=2></size><space=3> <voffset=5>Cortante</voffset>
+,,
+Game.UI.Continue,Continue,Continuar
+,,
+Game.LevelSummary.Title,End of day {0},Fin del día {0}
+Game.LevelSummary.Description,Your Deliveries:,Tus entregas:
+Game.LevelSummary.Flawless,Flawless: {0} - ${1},PERFECTOS: {0} - ${1}
+Game.LevelSummary.Okay,Okay: {0} - ${1},ACEPTABLES: {0} - ${1}
+Game.LevelSummary.Missed,Missed: {0} - ${1},FALLIDOS: {0} - ${1}

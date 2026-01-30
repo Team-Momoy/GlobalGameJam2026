@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 15db61d617aaa3e48b3228d36a960ad9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1127178040548266445
+    second: Cabezas De Martillo_0
+  - first:
+      213: 6052388930692769498
+    second: Cabezas De Martillo_1
+  - first:
+      213: -9204692116681015874
+    second: Cabezas De Martillo_2
+  - first:
+      213: -4649650534191352620
+    second: Cabezas De Martillo_3
+  - first:
+      213: 6944923322227823402
+    second: Cabezas De Martillo_4
+  - first:
+      213: 2633505889272568796
+    second: Cabezas De Martillo_5
+  - first:
+      213: 244204343509014703
+    second: Cabezas De Martillo_6
+  - first:
+      213: 67602936522330
+    second: Cabezas De Martillo_7
+  - first:
+      213: -1552250632755597504
+    second: Cabezas De Martillo_8
+  - first:
+      213: -7906304736755464966
+    second: Cabezas De Martillo_9
+  - first:
+      213: 3428941134662777752
+    second: Cabezas De Martillo_10
+  - first:
+      213: -8099052349827955156
+    second: Cabezas De Martillo_11
+  - first:
+      213: 5853695258134840606
+    second: Cabezas De Martillo_12
+  - first:
+      213: -4805899214650220183
+    second: Cabezas De Martillo_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cabezas De Martillo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 505
+        height: 508
+      alignment: 9
+      pivot: {x: 0.52211875, y: 0.17146924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc11081b47a84af00800000000000000
+      internalID: 1127178040548266445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 9
+        width: 479
+        height: 452
+      alignment: 9
+      pivot: {x: 0.51234525, y: 0.18745968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e2706aa76ef350800000000000000
+      internalID: 6052388930692769498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_2
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 13
+        width: 375
+        height: 442
+      alignment: 9
+      pivot: {x: 0.51927346, y: 0.18336178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdb366d94d524080800000000000000
+      internalID: -9204692116681015874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_3
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 13
+        width: 418
+        height: 438
+      alignment: 9
+      pivot: {x: 0.51107216, y: 0.15129565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4b1db597f197fb0800000000000000
+      internalID: -4649650534191352620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_4
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 16
+        width: 429
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.1866856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2317bd37f2516060800000000000000
+      internalID: 6944923322227823402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_5
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 61
+        width: 454
+        height: 357
+      alignment: 9
+      pivot: {x: 0.50509685, y: 0.17913336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb9df347a71c8420800000000000000
+      internalID: 2633505889272568796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_6
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 62
+        width: 463
+        height: 356
+      alignment: 9
+      pivot: {x: 0.49250284, y: 0.23023494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8567b7e86936300800000000000000
+      internalID: 244204343509014703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_7
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 43
+        width: 441
+        height: 410
+      alignment: 9
+      pivot: {x: 0.4763859, y: 0.27423126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5664090c7d300000800000000000000
+      internalID: 67602936522330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_8
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 83
+        width: 407
+        height: 322
+      alignment: 9
+      pivot: {x: 0.48294196, y: 0.23049742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f2a30164c457ae0800000000000000
+      internalID: -1552250632755597504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_9
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 111
+        width: 477
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3105873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c3b73bb9274290800000000000000
+      internalID: -7906304736755464966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_10
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 112
+        width: 496
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5093305, y: 0.32644033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bbc4f6bcb069f20800000000000000
+      internalID: 3428941134662777752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_11
+      rect:
+        serializedVersion: 2
+        x: 4994
+        y: 55
+        width: 387
+        height: 365
+      alignment: 9
+      pivot: {x: 0.49102926, y: 0.30345753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2646376cc26a9f80800000000000000
+      internalID: -8099052349827955156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_12
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 55
+        width: 347
+        height: 365
+      alignment: 9
+      pivot: {x: 0.5066685, y: 0.2527369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e150484b2d08c3150800000000000000
+      internalID: 5853695258134840606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabezas De Martillo_13
+      rect:
+        serializedVersion: 2
+        x: 5731
+        y: 55
+        width: 403
+        height: 364
+      alignment: 9
+      pivot: {x: 0.5028715, y: 0.23298511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e17480240e4db0800000000000000
+      internalID: -4805899214650220183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e2705a9687c8f04ab559a9ac8f1f7f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cabezas De Martillo_0: 1127178040548266445
+      Cabezas De Martillo_1: 6052388930692769498
+      Cabezas De Martillo_10: 3428941134662777752
+      Cabezas De Martillo_11: -8099052349827955156
+      Cabezas De Martillo_12: 5853695258134840606
+      Cabezas De Martillo_13: -4805899214650220183
+      Cabezas De Martillo_2: -9204692116681015874
+      Cabezas De Martillo_3: -4649650534191352620
+      Cabezas De Martillo_4: 6944923322227823402
+      Cabezas De Martillo_5: 2633505889272568796
+      Cabezas De Martillo_6: 244204343509014703
+      Cabezas De Martillo_7: 67602936522330
+      Cabezas De Martillo_8: -1552250632755597504
+      Cabezas De Martillo_9: -7906304736755464966
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

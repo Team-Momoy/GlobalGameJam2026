@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 8ac49e70de734a2448de719fb7e60a83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8895276242038731044
+    second: Iluminacion_personaje_prueba_1_0
+  - first:
+      213: 6845237532333999005
+    second: Iluminacion_personaje_prueba_1_1
+  - first:
+      213: 1460172055424956207
+    second: Iluminacion_personaje_prueba_1_2
+  - first:
+      213: 8734697151422856976
+    second: Iluminacion_personaje_prueba_1_3
+  - first:
+      213: -1149545753502659766
+    second: Iluminacion_personaje_prueba_1_4
+  - first:
+      213: -964669397752066885
+    second: Iluminacion_personaje_prueba_1_5
+  - first:
+      213: -4659210342021233162
+    second: Iluminacion_personaje_prueba_1_6
+  - first:
+      213: -2012207901086541279
+    second: Iluminacion_personaje_prueba_1_7
+  - first:
+      213: -6463754722648887176
+    second: Iluminacion_personaje_prueba_1_8
+  - first:
+      213: 2847519666665216935
+    second: Iluminacion_personaje_prueba_1_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b0b9ec9e527b70800000000000000
+      internalID: 8895276242038731044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 321
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9380fd944b2ffe50800000000000000
+      internalID: 6845237532333999005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 482
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277e828fb2934410800000000000000
+      internalID: 1460172055424956207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 124
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ffc23e7c0e73970800000000000000
+      internalID: 8734697151422856976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 142
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4a6d4a3efb00f0800000000000000
+      internalID: -1149545753502659766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 105
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc4c453b4ecc92f0800000000000000
+      internalID: -964669397752066885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 142
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f58ff521e8275fb0800000000000000
+      internalID: -4659210342021233162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 124
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a908933933314e0800000000000000
+      internalID: -2012207901086541279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870724183512c46a0800000000000000
+      internalID: -6463754722648887176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iluminacion_personaje_prueba_1_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd48ecc0c648720800000000000000
+      internalID: 2847519666665216935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iluminacion_personaje_prueba_1_0: 8895276242038731044
+      Iluminacion_personaje_prueba_1_1: 6845237532333999005
+      Iluminacion_personaje_prueba_1_2: 1460172055424956207
+      Iluminacion_personaje_prueba_1_3: 8734697151422856976
+      Iluminacion_personaje_prueba_1_4: -1149545753502659766
+      Iluminacion_personaje_prueba_1_5: -964669397752066885
+      Iluminacion_personaje_prueba_1_6: -4659210342021233162
+      Iluminacion_personaje_prueba_1_7: -2012207901086541279
+      Iluminacion_personaje_prueba_1_8: -6463754722648887176
+      Iluminacion_personaje_prueba_1_9: 2847519666665216935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2360781ee799cf44b6f9e872e9f19f3, type: 3}
+  m_Name: WeaponRequest
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponRequestSO
+  WeightByWeapon:
+    _serializedList:
+    - Key: 0
+      Value:
+        MinWeight: 1
+        MaxWeight: 10
+    - Key: 1
+      Value:
+        MinWeight: 1
+        MaxWeight: 10
+    - Key: 2
+      Value:
+        MinWeight: 1
+        MaxWeight: 10
+    - Key: 3
+      Value:
+        MinWeight: 1
+        MaxWeight: 10
+    - Key: 4
+      Value:
+        MinWeight: 1
+        MaxWeight: 10
+  WeaponsByDay:
+    _serializedList:
+    - Key: 0
+      Value: 01000000
+    - Key: 1
+      Value: 0000000001000000
+    - Key: 2
+      Value: 000000000100000002000000
+    - Key: 3
+      Value: 00000000010000000200000003000000
+    - Key: 4
+      Value: 0000000001000000020000000300000004000000
+    - Key: 5
+      Value: 0000000001000000020000000300000004000000
+  WeaponSprites:
+    _serializedList:
+    - Key: 0
+      Value: {fileID: 3872393122463093133, guid: 3061679e80a816b468652f7c0aa8c320, type: 3}
+    - Key: 1
+      Value: {fileID: 9202794514604970492, guid: 3061679e80a816b468652f7c0aa8c320, type: 3}
+    - Key: 2
+      Value: {fileID: -4112377022736399832, guid: 3061679e80a816b468652f7c0aa8c320, type: 3}
+    - Key: 3
+      Value: {fileID: 4899864674928732284, guid: 3061679e80a816b468652f7c0aa8c320, type: 3}
+    - Key: 4
+      Value: {fileID: -7677804096845346522, guid: 3061679e80a816b468652f7c0aa8c320, type: 3}

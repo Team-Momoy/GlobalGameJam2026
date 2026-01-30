@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: cd7ef02cf4dd9384ca97c7fcc849db92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4360810202104551585
+    second: Filos De Espada_0
+  - first:
+      213: 1100148174541790229
+    second: Filos De Espada_1
+  - first:
+      213: -2874304071413232549
+    second: Filos De Espada_2
+  - first:
+      213: -7894883404777715421
+    second: Filos De Espada_3
+  - first:
+      213: 6330480395909832913
+    second: Filos De Espada_4
+  - first:
+      213: 2207303811777289108
+    second: Filos De Espada_5
+  - first:
+      213: -5927449844018002443
+    second: Filos De Espada_6
+  - first:
+      213: -4968521906960239394
+    second: Filos De Espada_7
+  - first:
+      213: -5825301918972074940
+    second: Filos De Espada_8
+  - first:
+      213: 1566286396918827352
+    second: Filos De Espada_9
+  - first:
+      213: -4260776047718106512
+    second: Filos De Espada_10
+  - first:
+      213: 4219593113436860197
+    second: Filos De Espada_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Filos De Espada_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 450
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5765065, y: 0.17539348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a8aac93a4b73c0800000000000000
+      internalID: -4360810202104551585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 173
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5132665, y: 0.18523003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c9bd79fe2844f00800000000000000
+      internalID: 1100148174541790229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 317
+        height: 700
+      alignment: 9
+      pivot: {x: 0.51448053, y: 0.18195118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c84fefcab6c18d0800000000000000
+      internalID: -2874304071413232549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_3
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 0
+        width: 358
+        height: 700
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.13604721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329091b4f5dbf6290800000000000000
+      internalID: -7894883404777715421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_4
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 216
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5106252, y: 0.14916264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a7c731626ad750800000000000000
+      internalID: 6330480395909832913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_5
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 333
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5137844, y: 0.16883576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd95c3f1be1ae10800000000000000
+      internalID: 2207303811777289108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_6
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 0
+        width: 318
+        height: 700
+      alignment: 9
+      pivot: {x: 0.50721675, y: 0.16227806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5cc5795c77dbda0800000000000000
+      internalID: -5927449844018002443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_7
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 0
+        width: 329
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5418564, y: 0.16555691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed473e466a34c0bb0800000000000000
+      internalID: -4968521906960239394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_8
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 0
+        width: 220
+        height: 700
+      alignment: 9
+      pivot: {x: 0.4999989, y: 0.19178773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444a44ab4ce582fa0800000000000000
+      internalID: -5825301918972074940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_9
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 0
+        width: 393
+        height: 700
+      alignment: 9
+      pivot: {x: 0.4474377, y: 0.18195118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8598fd0fd219cb510800000000000000
+      internalID: 1566286396918827352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_10
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 0
+        width: 309
+        height: 688
+      alignment: 9
+      pivot: {x: 0.49999842, y: 0.22310838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af44852ceaed4c0800000000000000
+      internalID: -4260776047718106512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Espada_11
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 0
+        width: 266
+        height: 689
+      alignment: 9
+      pivot: {x: 0.24114119, y: 0.15022388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fa61f84910f8a30800000000000000
+      internalID: 4219593113436860197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa7e08fb5e42c3f478858d591d4c4c4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Filos De Espada_0: -4360810202104551585
+      Filos De Espada_1: 1100148174541790229
+      Filos De Espada_10: -4260776047718106512
+      Filos De Espada_11: 4219593113436860197
+      Filos De Espada_2: -2874304071413232549
+      Filos De Espada_3: -7894883404777715421
+      Filos De Espada_4: 6330480395909832913
+      Filos De Espada_5: 2207303811777289108
+      Filos De Espada_6: -5927449844018002443
+      Filos De Espada_7: -4968521906960239394
+      Filos De Espada_8: -5825301918972074940
+      Filos De Espada_9: 1566286396918827352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

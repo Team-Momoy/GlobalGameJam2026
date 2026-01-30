@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 88366848e6554f141ac05351eecea937
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8017831139444242392
+    second: Guardas_0
+  - first:
+      213: -5795709168536622763
+    second: Guardas_1
+  - first:
+      213: 4715225969939438818
+    second: Guardas_2
+  - first:
+      213: -2674978902473252231
+    second: Guardas_3
+  - first:
+      213: -3998754691449926673
+    second: Guardas_4
+  - first:
+      213: -7142679772789916656
+    second: Guardas_5
+  - first:
+      213: 979574325637591360
+    second: Guardas_6
+  - first:
+      213: -6349835927970834483
+    second: Guardas_7
+  - first:
+      213: -596520712915285049
+    second: Guardas_8
+  - first:
+      213: 3840992927950240484
+    second: Guardas_9
+  - first:
+      213: 3571036960162787916
+    second: Guardas_10
+  - first:
+      213: 1405246403607703235
+    second: Guardas_11
+  - first:
+      213: -6979717330991525690
+    second: Guardas_12
+  - first:
+      213: 3161540976559671651
+    second: Guardas_13
+  - first:
+      213: -4105628685456761634
+    second: Guardas_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guardas_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 417
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7b3a7e0fe054f60800000000000000
+      internalID: 8017831139444242392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 420
+        width: 388
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55966ebd731819fa0800000000000000
+      internalID: -5795709168536622763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 420
+        width: 353
+        height: 171
+      alignment: 9
+      pivot: {x: 0.48099437, y: 0.57846874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecdfed8909df6140800000000000000
+      internalID: 4715225969939438818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 419
+        width: 303
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5050617, y: 0.4051133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ea606cd090ead0800000000000000
+      internalID: -2674978902473252231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_4
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 419
+        width: 400
+        height: 158
+      alignment: 9
+      pivot: {x: 0.53664887, y: 0.50742215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb43306bc19188c0800000000000000
+      internalID: -3998754691449926673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 241
+        width: 281
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3d76179a10ec90800000000000000
+      internalID: -7142679772789916656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 255
+        width: 325
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b8beb8a5289d00800000000000000
+      internalID: 979574325637591360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 234
+        width: 365
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7194bcdd9d0e7a0800000000000000
+      internalID: -6349835927970834483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_8
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 237
+        width: 291
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb8585729bb8b7f0800000000000000
+      internalID: -596520712915285049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_9
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 236
+        width: 335
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf24fa7b2fd4530800000000000000
+      internalID: 3840992927950240484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 63
+        width: 278
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c423b42f13fde8130800000000000000
+      internalID: 3571036960162787916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 50
+        width: 302
+        height: 128
+      alignment: 9
+      pivot: {x: 0.551836, y: 0.49126458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceaee4a820708310800000000000000
+      internalID: 1405246403607703235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 30
+        width: 321
+        height: 145
+      alignment: 9
+      pivot: {x: 0.55648696, y: 0.50903255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0dc9d4110132f90800000000000000
+      internalID: -6979717330991525690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_13
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 7
+        width: 358
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5754715, y: 0.49742576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3694ea284cc00eb20800000000000000
+      internalID: 3161540976559671651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardas_14
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 17
+        width: 302
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5220305, y: 0.4940915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc12bf8670e507c0800000000000000
+      internalID: -4105628685456761634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec88b140a0c3798499cc401cc323eaa8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Guardas_0: 8017831139444242392
+      Guardas_1: -5795709168536622763
+      Guardas_10: 3571036960162787916
+      Guardas_11: 1405246403607703235
+      Guardas_12: -6979717330991525690
+      Guardas_13: 3161540976559671651
+      Guardas_14: -4105628685456761634
+      Guardas_2: 4715225969939438818
+      Guardas_3: -2674978902473252231
+      Guardas_4: -3998754691449926673
+      Guardas_5: -7142679772789916656
+      Guardas_6: 979574325637591360
+      Guardas_7: -6349835927970834483
+      Guardas_8: -596520712915285049
+      Guardas_9: 3840992927950240484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

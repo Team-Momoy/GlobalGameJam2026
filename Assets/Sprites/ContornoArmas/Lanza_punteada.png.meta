@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 99890a754c308bd498b56bdbc4ededeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1985437191041411413
+    second: Lanza_punteada_0
+  - first:
+      213: -3898187230623774659
+    second: Lanza_punteada_1
+  - first:
+      213: 5978889065173302821
+    second: Lanza_punteada_2
+  - first:
+      213: 5497461295103351749
+    second: Lanza_punteada_3
+  - first:
+      213: 4444562804750222380
+    second: Lanza_punteada_4
+  - first:
+      213: -3692475381894576799
+    second: Lanza_punteada_5
+  - first:
+      213: 2429487494422234222
+    second: Lanza_punteada_6
+  - first:
+      213: 9025146719792747058
+    second: Lanza_punteada_7
+  - first:
+      213: 3368411202744170872
+    second: Lanza_punteada_8
+  - first:
+      213: 1831251835520215040
+    second: Lanza_punteada_9
+  - first:
+      213: -7852628145504535892
+    second: Lanza_punteada_10
+  - first:
+      213: 7516967830643256485
+    second: Lanza_punteada_11
+  - first:
+      213: 877119793473482298
+    second: Lanza_punteada_12
+  - first:
+      213: 8138287254425686934
+    second: Lanza_punteada_13
+  - first:
+      213: -2779773185288874077
+    second: Lanza_punteada_14
+  - first:
+      213: -5530738652837356343
+    second: Lanza_punteada_15
+  - first:
+      213: 4301951056193348808
+    second: Lanza_punteada_16
+  - first:
+      213: -3075902832930856634
+    second: Lanza_punteada_17
+  - first:
+      213: -1339282041199651492
+    second: Lanza_punteada_18
+  - first:
+      213: -4151567638715770846
+    second: Lanza_punteada_19
+  - first:
+      213: 2774302884018906381
+    second: Lanza_punteada_20
+  - first:
+      213: 568028857486487896
+    second: Lanza_punteada_21
+  - first:
+      213: 4262601428199242725
+    second: Lanza_punteada_22
+  - first:
+      213: 1158475697744311085
+    second: Lanza_punteada_23
+  - first:
+      213: 5034791179906151362
+    second: Lanza_punteada_24
+  - first:
+      213: -1491586294540503266
+    second: Lanza_punteada_25
+  - first:
+      213: 6396125211728791067
+    second: Lanza_punteada_26
+  - first:
+      213: -3942035554302217420
+    second: Lanza_punteada_27
+  - first:
+      213: 787792588286245787
+    second: Lanza_punteada_28
+  - first:
+      213: 6970860221385294708
+    second: Lanza_punteada_29
+  - first:
+      213: 6102044225995178226
+    second: Lanza_punteada_30
+  - first:
+      213: 4813874580460265268
+    second: Lanza_punteada_31
+  - first:
+      213: -5784485525996845298
+    second: Lanza_punteada_32
+  - first:
+      213: -3110548179742293625
+    second: Lanza_punteada_33
+  - first:
+      213: 1744608085756236090
+    second: Lanza_punteada_34
+  - first:
+      213: 7346561317004493821
+    second: Lanza_punteada_35
+  - first:
+      213: 2411869305340048279
+    second: Lanza_punteada_36
+  - first:
+      213: 62426059851656218
+    second: Lanza_punteada_37
+  - first:
+      213: -7098139976873674102
+    second: Lanza_punteada_38
+  - first:
+      213: 4457872960097158993
+    second: Lanza_punteada_39
+  - first:
+      213: 3310102223388963095
+    second: Lanza_punteada_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lanza_punteada_0
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2864
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596fdf1b90bd8b10800000000000000
+      internalID: 1985437191041411413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_1
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2941
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c4b20e5bd6e9c0800000000000000
+      internalID: -3898187230623774659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2759
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e3f116de749f250800000000000000
+      internalID: 5978889065173302821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_3
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2802
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb181dcbe7ea4c40800000000000000
+      internalID: 5497461295103351749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_4
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2674
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c240d0792524ead30800000000000000
+      internalID: 4444562804750222380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_5
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2663
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1658c482431b1ccc0800000000000000
+      internalID: -3692475381894576799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2549
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e648a43110647b120800000000000000
+      internalID: 2429487494422234222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_7
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2556
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2325707df13cf3d70800000000000000
+      internalID: 9025146719792747058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_8
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2422
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879330d64200fbe20800000000000000
+      internalID: 3368411202744170872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2383
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008e67e87d9e96910800000000000000
+      internalID: 1831251835520215040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_10
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2461
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caab7f18e4cd50390800000000000000
+      internalID: -7852628145504535892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2170
+        width: 90
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aca7855a62a15860800000000000000
+      internalID: 7516967830643256485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2288
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e63731ec72c2c00800000000000000
+      internalID: 877119793473482298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2130
+        width: 80
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693d120b32101f070800000000000000
+      internalID: 8138287254425686934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1980
+        width: 85
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a753be04034c69d0800000000000000
+      internalID: -2779773185288874077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_15
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1933
+        width: 77
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5b149f7ede33b0800000000000000
+      internalID: -5530738652837356343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1776
+        width: 85
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4658161b993bb30800000000000000
+      internalID: 4301951056193348808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_17
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1734
+        width: 77
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641e9879ba23055d0800000000000000
+      internalID: -3075902832930856634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_18
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1591
+        width: 74
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c551c30541ae96de0800000000000000
+      internalID: -1339282041199651492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1541
+        width: 69
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d6518a3ba266c0800000000000000
+      internalID: -4151567638715770846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_20
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05e94d26cd408620800000000000000
+      internalID: 2774302884018906381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1468
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85137a08c3b02e700800000000000000
+      internalID: 568028857486487896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1378
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb73ea2a6dc72b30800000000000000
+      internalID: 4262601428199242725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1446
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f8fc528bb31010800000000000000
+      internalID: 1158475697744311085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1392
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3739417eb2fd540800000000000000
+      internalID: 5034791179906151362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1329
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17721afa22dc4be0800000000000000
+      internalID: -1491586294540503266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1194
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16c300fdf993c850800000000000000
+      internalID: 6396125211728791067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1142
+        width: 73
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4333bd59c831b49c0800000000000000
+      internalID: -3942035554302217420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1012
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bbc756f2dceea00800000000000000
+      internalID: 787792588286245787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_29
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 961
+        width: 72
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473429a20787db060800000000000000
+      internalID: 6970860221385294708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 822
+        width: 80
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08a2eb4e0dea450800000000000000
+      internalID: 6102044225995178226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 769
+        width: 75
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fdd990d615ec240800000000000000
+      internalID: 4813874580460265268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 634
+        width: 83
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c196cf0169bfa0800000000000000
+      internalID: -5784485525996845298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 572
+        width: 77
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78109b139ec15d4d0800000000000000
+      internalID: -3110548179742293625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 412
+        width: 89
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3156c78fc7163810800000000000000
+      internalID: 1744608085756236090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 348
+        width: 83
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3cda4189a34f560800000000000000
+      internalID: 7346561317004493821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 189
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933675ca5ea87120800000000000000
+      internalID: 2411869305340048279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 117
+        width: 81
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c6f22bb28cdd000800000000000000
+      internalID: 62426059851656218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8af1707c475e7d90800000000000000
+      internalID: -7098139976873674102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1570960a6db8ddd30800000000000000
+      internalID: 4457872960097158993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanza_punteada_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711745b3f68dfed20800000000000000
+      internalID: 3310102223388963095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lanza_punteada_0: 1985437191041411413
+      Lanza_punteada_1: -3898187230623774659
+      Lanza_punteada_10: -7852628145504535892
+      Lanza_punteada_11: 7516967830643256485
+      Lanza_punteada_12: 877119793473482298
+      Lanza_punteada_13: 8138287254425686934
+      Lanza_punteada_14: -2779773185288874077
+      Lanza_punteada_15: -5530738652837356343
+      Lanza_punteada_16: 4301951056193348808
+      Lanza_punteada_17: -3075902832930856634
+      Lanza_punteada_18: -1339282041199651492
+      Lanza_punteada_19: -4151567638715770846
+      Lanza_punteada_2: 5978889065173302821
+      Lanza_punteada_20: 2774302884018906381
+      Lanza_punteada_21: 568028857486487896
+      Lanza_punteada_22: 4262601428199242725
+      Lanza_punteada_23: 1158475697744311085
+      Lanza_punteada_24: 5034791179906151362
+      Lanza_punteada_25: -1491586294540503266
+      Lanza_punteada_26: 6396125211728791067
+      Lanza_punteada_27: -3942035554302217420
+      Lanza_punteada_28: 787792588286245787
+      Lanza_punteada_29: 6970860221385294708
+      Lanza_punteada_3: 5497461295103351749
+      Lanza_punteada_30: 6102044225995178226
+      Lanza_punteada_31: 4813874580460265268
+      Lanza_punteada_32: -5784485525996845298
+      Lanza_punteada_33: -3110548179742293625
+      Lanza_punteada_34: 1744608085756236090
+      Lanza_punteada_35: 7346561317004493821
+      Lanza_punteada_36: 2411869305340048279
+      Lanza_punteada_37: 62426059851656218
+      Lanza_punteada_38: -7098139976873674102
+      Lanza_punteada_39: 4457872960097158993
+      Lanza_punteada_4: 4444562804750222380
+      Lanza_punteada_40: 3310102223388963095
+      Lanza_punteada_5: -3692475381894576799
+      Lanza_punteada_6: 2429487494422234222
+      Lanza_punteada_7: 9025146719792747058
+      Lanza_punteada_8: 3368411202744170872
+      Lanza_punteada_9: 1831251835520215040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

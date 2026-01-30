@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 540336d6057d3a5478685d711108589e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6317710065653278595
+    second: PuntasDeLanza_0
+  - first:
+      213: -6470588180385742933
+    second: PuntasDeLanza_1
+  - first:
+      213: 4850283584804662408
+    second: PuntasDeLanza_2
+  - first:
+      213: -412663477887989944
+    second: PuntasDeLanza_3
+  - first:
+      213: -6223477488355185393
+    second: PuntasDeLanza_4
+  - first:
+      213: 8574037623348664637
+    second: PuntasDeLanza_5
+  - first:
+      213: -522613888799367814
+    second: PuntasDeLanza_6
+  - first:
+      213: -7591635015576680498
+    second: PuntasDeLanza_7
+  - first:
+      213: 6796377057358048531
+    second: PuntasDeLanza_8
+  - first:
+      213: 2590854196901437546
+    second: PuntasDeLanza_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PuntasDeLanza_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 360
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7893defa2cf258a0800000000000000
+      internalID: -6317710065653278595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 49
+        width: 342
+        height: 329
+      alignment: 9
+      pivot: {x: 0.48267138, y: 0.17318162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3444255ad336a0800000000000000
+      internalID: -6470588180385742933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 50
+        width: 274
+        height: 348
+      alignment: 9
+      pivot: {x: 0.49073023, y: 0.20562246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca034f83baf4340800000000000000
+      internalID: 4850283584804662408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 65
+        width: 291
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49127176, y: 0.18392123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84785b4d0cce54af0800000000000000
+      internalID: -412663477887989944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_4
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 294
+        height: 439
+      alignment: 9
+      pivot: {x: 0.52015823, y: 0.2396439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0de2fe9234c1a9a0800000000000000
+      internalID: -6223477488355185393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_5
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 38
+        width: 184
+        height: 287
+      alignment: 9
+      pivot: {x: 0.4907976, y: 0.22270346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39188e8ac91df670800000000000000
+      internalID: 8574037623348664637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_6
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 30
+        width: 233
+        height: 293
+      alignment: 9
+      pivot: {x: 0.52494323, y: 0.32442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9d63ef6d4fb8f0800000000000000
+      internalID: -522613888799367814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_7
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 31
+        width: 301
+        height: 319
+      alignment: 9
+      pivot: {x: 0.491786, y: 0.20465088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec78220fc2815a690800000000000000
+      internalID: -7591635015576680498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_8
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 38
+        width: 369
+        height: 302
+      alignment: 9
+      pivot: {x: 0.504589, y: 0.20283516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de077cce4915e50800000000000000
+      internalID: 6796377057358048531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntasDeLanza_9
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 26
+        width: 323
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4973787, y: 0.30214402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60e3274a2094f320800000000000000
+      internalID: 2590854196901437546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 957997aaa57d6ad4ebfc390a7b2291ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PuntasDeLanza_0: -6317710065653278595
+      PuntasDeLanza_1: -6470588180385742933
+      PuntasDeLanza_2: 4850283584804662408
+      PuntasDeLanza_3: -412663477887989944
+      PuntasDeLanza_4: -6223477488355185393
+      PuntasDeLanza_5: 8574037623348664637
+      PuntasDeLanza_6: -522613888799367814
+      PuntasDeLanza_7: -7591635015576680498
+      PuntasDeLanza_8: 6796377057358048531
+      PuntasDeLanza_9: 2590854196901437546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

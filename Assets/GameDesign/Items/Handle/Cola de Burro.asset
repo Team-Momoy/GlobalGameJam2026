@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b487ac98523dad408d0137a38e263b5, type: 3}
+  m_Name: Cola de Burro
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDataSO
+  itemName: Cola de Burro
+  weight: 1
+  materialType: 3
+  materialRarity: 0
+  sprite: {fileID: -6910022465505759066, guid: 0a01ebacebe5a9f4dabc9948372ab30e, type: 3}
+  colliderType: 0
+  colliderOffset: {x: -0.01, y: -1.14}
+  colliderSize: {x: 0.81, y: 2.91}
+  colliderRadius: 0
+  capsuleDir: 0
+  polygonPoints: []

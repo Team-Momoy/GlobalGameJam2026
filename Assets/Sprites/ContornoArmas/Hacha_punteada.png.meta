@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: c0364479c113c24458041ae2df0eb57b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6968182597001949527
+    second: Hacha_punteada_0
+  - first:
+      213: 7873918299547510507
+    second: Hacha_punteada_1
+  - first:
+      213: 422900217482425324
+    second: Hacha_punteada_2
+  - first:
+      213: 711845848350467380
+    second: Hacha_punteada_3
+  - first:
+      213: -5373825842869241175
+    second: Hacha_punteada_4
+  - first:
+      213: -4968513138365572288
+    second: Hacha_punteada_5
+  - first:
+      213: 6955233713800752991
+    second: Hacha_punteada_6
+  - first:
+      213: 7746912318333202546
+    second: Hacha_punteada_7
+  - first:
+      213: 1378038917369758330
+    second: Hacha_punteada_8
+  - first:
+      213: -6750649331367465135
+    second: Hacha_punteada_9
+  - first:
+      213: -7867915093734166523
+    second: Hacha_punteada_10
+  - first:
+      213: -2088474347758045651
+    second: Hacha_punteada_11
+  - first:
+      213: 1009008258779074062
+    second: Hacha_punteada_12
+  - first:
+      213: 2435870399406985
+    second: Hacha_punteada_13
+  - first:
+      213: -8721191420160561675
+    second: Hacha_punteada_14
+  - first:
+      213: -7921448290721053589
+    second: Hacha_punteada_15
+  - first:
+      213: -6049503881560849516
+    second: Hacha_punteada_16
+  - first:
+      213: -2105641011000766229
+    second: Hacha_punteada_17
+  - first:
+      213: -9045447346683366172
+    second: Hacha_punteada_18
+  - first:
+      213: -2745726233220512365
+    second: Hacha_punteada_19
+  - first:
+      213: -8388656270225293240
+    second: Hacha_punteada_20
+  - first:
+      213: 776530605599103527
+    second: Hacha_punteada_21
+  - first:
+      213: 2159749495825138419
+    second: Hacha_punteada_22
+  - first:
+      213: -5866659010720485932
+    second: Hacha_punteada_23
+  - first:
+      213: -4445736544019179282
+    second: Hacha_punteada_24
+  - first:
+      213: 3688691576242956637
+    second: Hacha_punteada_25
+  - first:
+      213: -6253511270192320647
+    second: Hacha_punteada_26
+  - first:
+      213: 4351437813700645651
+    second: Hacha_punteada_27
+  - first:
+      213: -5115225329793850000
+    second: Hacha_punteada_28
+  - first:
+      213: 4970137138086174047
+    second: Hacha_punteada_29
+  - first:
+      213: -5896719747315221416
+    second: Hacha_punteada_30
+  - first:
+      213: -625517551472860739
+    second: Hacha_punteada_31
+  - first:
+      213: -265029679841773868
+    second: Hacha_punteada_32
+  - first:
+      213: -473293491203520450
+    second: Hacha_punteada_33
+  - first:
+      213: -6085509976203855383
+    second: Hacha_punteada_34
+  - first:
+      213: 553776577404316976
+    second: Hacha_punteada_35
+  - first:
+      213: -8940772024435822147
+    second: Hacha_punteada_36
+  - first:
+      213: 1077427505659928532
+    second: Hacha_punteada_37
+  - first:
+      213: -8902250821353373725
+    second: Hacha_punteada_38
+  - first:
+      213: 7135164773476091443
+    second: Hacha_punteada_39
+  - first:
+      213: -3534337934317529983
+    second: Hacha_punteada_40
+  - first:
+      213: 8192924859058001651
+    second: Hacha_punteada_41
+  - first:
+      213: 4725462896653497662
+    second: Hacha_punteada_42
+  - first:
+      213: -2972863341195901064
+    second: Hacha_punteada_43
+  - first:
+      213: 8239557593277846143
+    second: Hacha_punteada_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hacha_punteada_0
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2319
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aec3a7d8da0c4f90800000000000000
+      internalID: -6968182597001949527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2208
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be62af2c9f6c54d60800000000000000
+      internalID: 7873918299547510507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2201
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b976d1817ed500800000000000000
+      internalID: 422900217482425324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2138
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43524cd070cf0e900800000000000000
+      internalID: 711845848350467380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2112
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf6fe1ed55c65b0800000000000000
+      internalID: -5373825842869241175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_5
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2029
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bdbddff9b4c0bb0800000000000000
+      internalID: -4968513138365572288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2038
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f2ae85634f58060800000000000000
+      internalID: 6955233713800752991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2062
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270395865bf828b60800000000000000
+      internalID: 7746912318333202546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2069
+        width: 129
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a720d7c1817cf1310800000000000000
+      internalID: 1378038917369758330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1898
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2d981330e052a0800000000000000
+      internalID: -6750649331367465135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1875
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5007a0388ec8fc290800000000000000
+      internalID: -7867915093734166523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1756
+        width: 34
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26bd5b55af3403e0800000000000000
+      internalID: -2088474347758045651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1721
+        width: 29
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e46f75aa7b00e00800000000000000
+      internalID: 1009008258779074062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_13
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1697
+        width: 49
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98320e54967a80000800000000000000
+      internalID: 2435870399406985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1773
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd25273c9a18f680800000000000000
+      internalID: -8721191420160561675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1610
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6442fccfbc511290800000000000000
+      internalID: -7921448290721053589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1537
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49308387548db0ca0800000000000000
+      internalID: -6049503881560849516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1519
+        width: 270
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be01eca18a247c2e0800000000000000
+      internalID: -2105641011000766229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1530
+        width: 133
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e43072209d187280800000000000000
+      internalID: -9045447346683366172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1450
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3958b62d98835e9d0800000000000000
+      internalID: -2745726233220512365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1347
+        width: 159
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8404e563191859b80800000000000000
+      internalID: -8388656270225293240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1327
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a14f7b87ac6ca00800000000000000
+      internalID: 776530605599103527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_22
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1406
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f28c7e39b8f8fd10800000000000000
+      internalID: 2159749495825138419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1224
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd29af66b0759ea0800000000000000
+      internalID: -5866659010720485932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1248
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee893c0fa229d42c0800000000000000
+      internalID: -4445736544019179282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1309
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59efefe17dd03330800000000000000
+      internalID: 3688691576242956637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1228
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fe84dd1a01739a0800000000000000
+      internalID: -6253511270192320647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1090
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31354dbf2a9636c30800000000000000
+      internalID: 4351437813700645651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1090
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ae870aa11309b0800000000000000
+      internalID: -5115225329793850000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 944
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d5a98e46979f440800000000000000
+      internalID: 4970137138086174047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 944
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cbe39c1a4aa2ea0800000000000000
+      internalID: -5896719747315221416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 801
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db120bfd917b157f0800000000000000
+      internalID: -625517551472860739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 801
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6781e09ec625cf0800000000000000
+      internalID: -265029679841773868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 637
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e384f4ec3168e69f0800000000000000
+      internalID: -473293491203520450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 637
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f5474beceb8ba0800000000000000
+      internalID: -6085509976203855383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 477
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dad15fcd86fa700800000000000000
+      internalID: 553776577404316976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 477
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b0c9c63ffbe380800000000000000
+      internalID: -8940772024435822147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 349
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df5812ab9ac3fe00800000000000000
+      internalID: 1077427505659928532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 349
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef7dcb4b0ad47480800000000000000
+      internalID: -8902250821353373725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 40
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364ce8ce82350360800000000000000
+      internalID: 7135164773476091443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 207
+        width: 40
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d0dcdf5283fec0800000000000000
+      internalID: -3534337934317529983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f69e9750cd13b170800000000000000
+      internalID: 8192924859058001651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 66
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35f15ac777349140800000000000000
+      internalID: 4725462896653497662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877cc36ca844eb6d0800000000000000
+      internalID: -2972863341195901064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hacha_punteada_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d2bdd9f9c85270800000000000000
+      internalID: 8239557593277846143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hacha_punteada_0: -6968182597001949527
+      Hacha_punteada_1: 7873918299547510507
+      Hacha_punteada_10: -7867915093734166523
+      Hacha_punteada_11: -2088474347758045651
+      Hacha_punteada_12: 1009008258779074062
+      Hacha_punteada_13: 2435870399406985
+      Hacha_punteada_14: -8721191420160561675
+      Hacha_punteada_15: -7921448290721053589
+      Hacha_punteada_16: -6049503881560849516
+      Hacha_punteada_17: -2105641011000766229
+      Hacha_punteada_18: -9045447346683366172
+      Hacha_punteada_19: -2745726233220512365
+      Hacha_punteada_2: 422900217482425324
+      Hacha_punteada_20: -8388656270225293240
+      Hacha_punteada_21: 776530605599103527
+      Hacha_punteada_22: 2159749495825138419
+      Hacha_punteada_23: -5866659010720485932
+      Hacha_punteada_24: -4445736544019179282
+      Hacha_punteada_25: 3688691576242956637
+      Hacha_punteada_26: -6253511270192320647
+      Hacha_punteada_27: 4351437813700645651
+      Hacha_punteada_28: -5115225329793850000
+      Hacha_punteada_29: 4970137138086174047
+      Hacha_punteada_3: 711845848350467380
+      Hacha_punteada_30: -5896719747315221416
+      Hacha_punteada_31: -625517551472860739
+      Hacha_punteada_32: -265029679841773868
+      Hacha_punteada_33: -473293491203520450
+      Hacha_punteada_34: -6085509976203855383
+      Hacha_punteada_35: 553776577404316976
+      Hacha_punteada_36: -8940772024435822147
+      Hacha_punteada_37: 1077427505659928532
+      Hacha_punteada_38: -8902250821353373725
+      Hacha_punteada_39: 7135164773476091443
+      Hacha_punteada_4: -5373825842869241175
+      Hacha_punteada_40: -3534337934317529983
+      Hacha_punteada_41: 8192924859058001651
+      Hacha_punteada_42: 4725462896653497662
+      Hacha_punteada_43: -2972863341195901064
+      Hacha_punteada_44: 8239557593277846143
+      Hacha_punteada_5: -4968513138365572288
+      Hacha_punteada_6: 6955233713800752991
+      Hacha_punteada_7: 7746912318333202546
+      Hacha_punteada_8: 1378038917369758330
+      Hacha_punteada_9: -6750649331367465135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

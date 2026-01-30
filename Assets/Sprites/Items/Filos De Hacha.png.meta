@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: b81a17e5e3b0fd44e92fac10f0aca608
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5381132043621090516
+    second: Filos De Hacha_0
+  - first:
+      213: -7231782225873541030
+    second: Filos De Hacha_1
+  - first:
+      213: 6162233476375898584
+    second: Filos De Hacha_2
+  - first:
+      213: 4346099575716333581
+    second: Filos De Hacha_3
+  - first:
+      213: 1613596814901250957
+    second: Filos De Hacha_4
+  - first:
+      213: 5810696456810197692
+    second: Filos De Hacha_5
+  - first:
+      213: -9071821161919976053
+    second: Filos De Hacha_6
+  - first:
+      213: -2470322415955527005
+    second: Filos De Hacha_7
+  - first:
+      213: 4411482847608534290
+    second: Filos De Hacha_8
+  - first:
+      213: -6102218779539116713
+    second: Filos De Hacha_9
+  - first:
+      213: -5628734787225166615
+    second: Filos De Hacha_10
+  - first:
+      213: -1296241268810151542
+    second: Filos De Hacha_11
+  - first:
+      213: 1761314241059029172
+    second: Filos De Hacha_12
+  - first:
+      213: 3069341692648561063
+    second: Filos De Hacha_13
+  - first:
+      213: -7603852467770640027
+    second: Filos De Hacha_14
+  - first:
+      213: 7344983288539626783
+    second: Filos De Hacha_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Filos De Hacha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 333
+        height: 449
+      alignment: 9
+      pivot: {x: 0.26419806, y: 0.5247433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3e72bae06255b0800000000000000
+      internalID: -5381132043621090516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 552
+        width: 226
+        height: 391
+      alignment: 9
+      pivot: {x: 0.28536487, y: 0.50419235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e2d5916c83ab90800000000000000
+      internalID: -7231782225873541030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 540
+        width: 396
+        height: 312
+      alignment: 9
+      pivot: {x: 0.1895567, y: 0.50151354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e766a2b6a48550800000000000000
+      internalID: 6162233476375898584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_3
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 577
+        width: 300
+        height: 307
+      alignment: 9
+      pivot: {x: 0.21235067, y: 0.47492728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d084c099982705c30800000000000000
+      internalID: 4346099575716333581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_4
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 537
+        width: 499
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5004911, y: 0.3770294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b04e201c5a46610800000000000000
+      internalID: 1613596814901250957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_5
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 538
+        width: 389
+        height: 346
+      alignment: 9
+      pivot: {x: 0.20910457, y: 0.49525195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2facd14adb3a050800000000000000
+      internalID: 5810696456810197692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_6
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 527
+        width: 452
+        height: 332
+      alignment: 9
+      pivot: {x: 0.16813836, y: 0.49660116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d63e1c7ba6a1280800000000000000
+      internalID: -9071821161919976053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_7
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 9
+        width: 418
+        height: 504
+      alignment: 9
+      pivot: {x: 0.24603944, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa394cd9d6a7bdd0800000000000000
+      internalID: -2470322415955527005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_8
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 349
+        width: 479
+        height: 597
+      alignment: 9
+      pivot: {x: 0.17936334, y: 0.5014097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2157f60e64cb83d30800000000000000
+      internalID: 4411482847608534290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 13
+        width: 406
+        height: 392
+      alignment: 9
+      pivot: {x: 0.40952456, y: 0.47332165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d6ad7d950905ba0800000000000000
+      internalID: -6102218779539116713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 37
+        width: 203
+        height: 362
+      alignment: 9
+      pivot: {x: 0.31168896, y: 0.5105049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec5f888887b2e1b0800000000000000
+      internalID: -5628734787225166615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 26
+        width: 262
+        height: 407
+      alignment: 9
+      pivot: {x: 0.29203016, y: 0.5039421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a898e5d0f63d20ee0800000000000000
+      internalID: -1296241268810151542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_12
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 64
+        width: 338
+        height: 357
+      alignment: 9
+      pivot: {x: 0.22963484, y: 0.49802217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0092c68f1717810800000000000000
+      internalID: 1761314241059029172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_13
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 28
+        width: 359
+        height: 509
+      alignment: 9
+      pivot: {x: 0.20563509, y: 0.49626786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a91d94e10e789a20800000000000000
+      internalID: 3069341692648561063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_14
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 108
+        width: 330
+        height: 337
+      alignment: 9
+      pivot: {x: 0.22380444, y: 0.45212045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569bd0ea770b97690800000000000000
+      internalID: -7603852467770640027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filos De Hacha_15
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 126
+        width: 480
+        height: 338
+      alignment: 9
+      pivot: {x: 0.12091573, y: 0.4213618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db592b26f9ee560800000000000000
+      internalID: 7344983288539626783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3a2c5b83c5d515e40afd7bb0e723d9c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Filos De Hacha_0: -5381132043621090516
+      Filos De Hacha_1: -7231782225873541030
+      Filos De Hacha_10: -5628734787225166615
+      Filos De Hacha_11: -1296241268810151542
+      Filos De Hacha_12: 1761314241059029172
+      Filos De Hacha_13: 3069341692648561063
+      Filos De Hacha_14: -7603852467770640027
+      Filos De Hacha_15: 7344983288539626783
+      Filos De Hacha_2: 6162233476375898584
+      Filos De Hacha_3: 4346099575716333581
+      Filos De Hacha_4: 1613596814901250957
+      Filos De Hacha_5: 5810696456810197692
+      Filos De Hacha_6: -9071821161919976053
+      Filos De Hacha_7: -2470322415955527005
+      Filos De Hacha_8: 4411482847608534290
+      Filos De Hacha_9: -6102218779539116713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

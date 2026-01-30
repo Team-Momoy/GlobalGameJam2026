@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b487ac98523dad408d0137a38e263b5, type: 3}
+  m_Name: Galletita
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDataSO
+  itemName: Galletita
+  weight: 1
+  materialType: 6
+  materialRarity: 0
+  sprite: {fileID: 5371446443341623180, guid: 078d31932a5c06147ab53f83ac93c8ed, type: 3}
+  colliderType: 1
+  colliderOffset: {x: -0.0052298307, y: 0.00964582}
+  colliderSize: {x: 0, y: 0}
+  colliderRadius: 1.0878354
+  capsuleDir: 0
+  polygonPoints: []
