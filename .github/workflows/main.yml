@@ -1,0 +1,70 @@
+name: Action Cache and Export
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Create and Publish Build to Itch.io
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    concurrency: 
+      group: unity-build
+      cancel-in-progress: true
+    steps:
+      # Free space
+      - name: Free Disk Space
+        run: |
+          sudo swapoff -a
+          sudo rm -f /swapfile
+          sudo apt clean
+          if [ "$(docker image ls -aq)" ]; then
+            docker rmi $(docker image ls -aq)
+          fi
+          df -h
+      # Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+      # Cache
+      - uses: actions/cache@v3
+        with:
+          path: Library
+          key: Library-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Library-
+      # Build
+      - name: Build project
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          buildsPath: build/webgl
+          targetPlatform: WebGL
+          customParameters: "-disable-burst -nographics"
+          allowDirtyBuild: true
+
+      - name: Install Butler CLI
+        run: |
+          curl -L -o butler.zip https://broth.itch.ovh/butler/linux-amd64/LATEST/archive/default
+          unzip butler.zip
+          chmod +x butler
+          sudo mv butler /usr/local/bin/
+      
+      # Publish to Itch.io (MODIFIED)
+      - name: Publish to Itch
+        run: butler push ${{ env.PACKAGE }} ${{ env.ITCH_USER }}/${{ env.ITCH_GAME }}:${{ env.CHANNEL }}
+        env:
+          BUTLER_API_KEY: ${{ secrets.BUTLER_CREDENTIALS }}
+          PACKAGE: build/webgl
+          CHANNEL: html
+          ITCH_GAME: global-game-jam-2026
+          ITCH_USER: flaquero
