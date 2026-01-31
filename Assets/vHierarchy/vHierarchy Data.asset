@@ -41,6 +41,7 @@ MonoBehaviour:
         - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-1986867371-0
         - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-5802077877866545201-2103024888
         - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-3486842287835212684-614547939
+        - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-1619166148-0
         values:
         - colorIndex: 2
           iconNameOrGuid: StandaloneInputModule Icon
@@ -126,6 +127,10 @@ MonoBehaviour:
           iconNameOrGuid: 
           isIconRecursive: 0
           isColorRecursive: 1
+        - colorIndex: 0
+          iconNameOrGuid: StandaloneInputModule Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
     - goDatas_byGlobalId:
         keys:
         - globalObjectIdString: GlobalObjectId_V1-2-a9568988b34c37a4992df13119b85e10-1660283063-0
