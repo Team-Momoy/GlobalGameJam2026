@@ -15,7 +15,11 @@ public class OptionsButton : MonoBehaviour
             Destroy(transform.parent.gameObject);
         }
 
-        DontDestroyOnLoad(transform.parent.gameObject);
+        if(transform.parent != null)
+        {
+            DontDestroyOnLoad(transform.parent.gameObject);
+        }
+        
     }
 
     public void OpenOptions()

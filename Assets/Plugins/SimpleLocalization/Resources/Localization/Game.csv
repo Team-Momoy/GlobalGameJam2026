@@ -4,7 +4,7 @@ Game.Skills.ImpostorSkill.True,Point at the impostor,Apunta al impostor
 Game.Skills.ImpostorSkill.False,Point at an innocent instead,Apunta a un inocente
 Game.Skills.DoubleSkill.Name,DOUBLE DOUBLE,DOBLE DOBLE
 Game.Skills.DoubleSkill.True,"Select two masked characters. Next turn, they play 2 cards","Selecciona dos enmascarados, el proximo turno jugaran 2 cartas"
-Game.Skills.DoubleSkill.False,"If the impostor is selected, one of their cards becomes an innocent card","Si el seleccionado es impostor, una de sus cartas sera de inocente"
+Game.Skills.DoubleSkill.False,"If the impostor is one of the selected characters, one of their 2 played cards will be an innocent card","Si uno de los seleccionados es impostor, una de sus 2 cartas jugadas sera de inocente"
 Game.Skills.Who.Name,WHO DID IT?,QUIEN FUE?
 Game.Skills.Who.True,Select a masked character. One of their played cards will be highlighted,"Selecciona un enmascarado, una de sus cartas ya jugadas sera resaltada"
 Game.Skills.Who.False,Another character's card will be highlighted instead,La carta de otro jugador sera resaltada
@@ -22,3 +22,7 @@ Game.InnocentKill,YOU KILLED AN INNOCENT,MATASTE A UN INOCENTE
 ,,
 Game.Retry,Retry,Reintentar
 Game.BackToMenu,Back to Menu,Volver Al Menu
+,,
+Game.Guide.Title,Guide,Guia
+Game.Guide.Skills,"You've got 3 skills to identify the impostor, one of those skills will <u>always</u> be fake.","Tienes 3 habilidades para identificar al impostor, una de esas habilidades <u>siempre</u> sera falsa."
+Game.Guide.Dagger,"Once you identify the impostor, use the dagger to kill him.",Cuando hayas identificado al impostor usa la daga para asesinarlo.
