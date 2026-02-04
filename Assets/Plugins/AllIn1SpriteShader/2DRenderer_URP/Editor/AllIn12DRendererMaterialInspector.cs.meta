@@ -9,3 +9,10 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156513
+  packageName: All In 1 Sprite Shader
+  packageVersion: 4.66
+  assetPath: Assets/Plugins/AllIn1SpriteShader/2DRenderer_URP/Editor/AllIn12DRendererMaterialInspector.cs
+  uploadId: 853200

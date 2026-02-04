@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 6155525089238503989}
   - component: {fileID: 4896848372871494458}
   - component: {fileID: -4319517353552643562}
+  - component: {fileID: 4130812791226022497}
+  - component: {fileID: 7254065292579923928}
   m_Layer: 0
   m_Name: Card
   m_TagString: Untagged
@@ -32,6 +34,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 8384179090741836065}
+  - {fileID: 4067760891633638787}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4896848372871494458
@@ -59,7 +62,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6a3436a46573f44ba9e4c92ccfb21f7, type: 2}
+  - {fileID: 2100000, guid: fde4798148a21054bacd8b800a316314, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -104,8 +107,58 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a6e17eb5e5858c4383a563afdf02c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Card
+  spriteRenderer: {fileID: 4896848372871494458}
+  hasOutline: 0
+  tooltip: {fileID: 5325784346013564607}
+  onClick:
+    m_PersistentCalls:
+      m_Calls: []
+  onHoverEnter:
+    m_PersistentCalls:
+      m_Calls: []
+  onHoverExit:
+    m_PersistentCalls:
+      m_Calls: []
+  isImpostorCard: 0
   frontRenderer: {fileID: 4896848372871494458}
   backRenderer: {fileID: 4962388388003752144}
+--- !u!114 &4130812791226022497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2485400556168791885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee158225ee1e59f4791627785501d950, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AllIn1SpriteShaderAssembly::AllIn1SpriteShader.AllIn1Shader
+  currentShaderType: 5
+  normalStrength: 5
+  normalSmoothing: 1
+  computingNormal: 0
+--- !u!65 &7254065292579923928
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2485400556168791885}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4, y: 6.5, z: 0.19999999}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &2916933161654299773
 GameObject:
   m_ObjectHideFlags: 0
@@ -196,3 +249,174 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &3942982882717438269
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6155525089238503989}
+    m_Modifications:
+    - target: {fileID: 876999100992481084, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_Name
+      value: TooltipCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 777
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 437
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150421897375735771, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3761425206443962694, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: targetCamera
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106349585335903723, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_text
+      value: INOCENTE
+      objectReference: {fileID: 0}
+    - target: {fileID: 6437433657168100584, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      propertyPath: m_text
+      value: Esta carta pertenece a un Inocente
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1584759659838783274, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3635698750567589304}
+    - targetCorrespondingSourceObject: {fileID: 6193691843944686411, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2645346391316430163}
+  m_SourcePrefab: {fileID: 100100000, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+--- !u!1 &2541851573208657431 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1584759659838783274, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+  m_PrefabInstance: {fileID: 3942982882717438269}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3635698750567589304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2541851573208657431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5834d36f33e8d43a15be9b1be49c41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp-firstpass::Assets.SimpleLocalization.Scripts.LocalizedTextMeshPro
+  _localizationKey: Game.Card.Innocent.Title
+--- !u!224 &4067760891633638787 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 1066188663892544702, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+  m_PrefabInstance: {fileID: 3942982882717438269}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5325784346013564607 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 9174033304790822786, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+  m_PrefabInstance: {fileID: 3942982882717438269}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7754404cc8509c4db6315910727a12d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Tooltip
+--- !u!1 &7155133356745634422 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6193691843944686411, guid: 9aea61263740e044480e05dcfc8145e7, type: 3}
+  m_PrefabInstance: {fileID: 3942982882717438269}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2645346391316430163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7155133356745634422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5834d36f33e8d43a15be9b1be49c41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp-firstpass::Assets.SimpleLocalization.Scripts.LocalizedTextMeshPro
+  _localizationKey: Game.Card.Innocent.Description

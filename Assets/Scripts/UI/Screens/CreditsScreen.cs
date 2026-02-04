@@ -10,17 +10,17 @@ public class CreditsScreen : MonoBehaviour
     {
         OverlayManager.Instance.FadeToBlack(0.7f);
 
-        creditsScreen.localRotation = Quaternion.Euler(0, 0, -45);
+        creditsScreen.anchoredPosition = new Vector3(2000, creditsScreen.anchoredPosition.y);
         creditsScreen.gameObject.SetActive(true);
-        creditsScreen.DORotate(Vector3.zero, 0.3f).SetEase(Ease.OutSine);
+        creditsScreen.DOAnchorPos(new Vector3(0, creditsScreen.anchoredPosition.y   ), 0.3f).SetEase(Ease.OutSine);
     }
 
     public void Close()
     {
         OverlayManager.Instance.Clear();
 
-        creditsScreen.localRotation = Quaternion.Euler(0, 0, 0);
-        creditsScreen.DORotate(new Vector3(0, 0, 45), 0.4f).SetEase(Ease.InBack, 4f).OnComplete(() =>
+        creditsScreen.anchoredPosition = Vector3.zero;
+        creditsScreen.DOAnchorPos(new Vector3(-2000, creditsScreen.anchoredPosition.y), 0.4f).SetEase(Ease.InBack, 4f).OnComplete(() =>
         {
             creditsScreen.gameObject.SetActive(false);
         });

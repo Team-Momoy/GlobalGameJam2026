@@ -1,33 +1,24 @@
 Key,English,Spanish
-Game.UI.Materials,Materials,Materiales
-Game.Material.Blunt,Blunt item {0},Objeto contundente {0}
-Game.Material.Handle,Handle {0},Mango {0}
-Game.Material.Guard,Guard {0},Guarda {0}
-Game.Material.Sharp,Sharp item {0},Objeto filoso {0}
-Game.Material.Defensive,Defensive item {0},Objeto defensivo {0}
-Game.Material.Piercing,Piercing item {0},Objeto punzante {0}
-Game.Material.Cutting,Cutting item {0},Objeto cortante {0}
-Game.Crafting.Hit,Hit X{0},Golpe X{0}
-Game.UI.Preparation,Preparation,Preparación
-Game.UI.SelectRecipe,Select,Seleccionar
+Game.Skills.ImpostorSkill.Name,SHOW THE IMPOSTOR,NOMBRA AL IMPOSTOR
+Game.Skills.ImpostorSkill.True,Point at the impostor,Apunta al impostor
+Game.Skills.ImpostorSkill.False,Point at an innocent instead,Apunta a un inocente
+Game.Skills.DoubleSkill.Name,DOUBLE DOUBLE,DOBLE DOBLE
+Game.Skills.DoubleSkill.True,"Select two masked characters. Next turn, they play 2 cards","Selecciona dos enmascarados, el proximo turno jugaran 2 cartas"
+Game.Skills.DoubleSkill.False,"If the impostor is selected, one of their cards becomes an innocent card","Si el seleccionado es impostor, una de sus cartas sera de inocente"
+Game.Skills.Who.Name,WHO DID IT?,QUIEN FUE?
+Game.Skills.Who.True,Select a masked character. One of their played cards will be highlighted,"Selecciona un enmascarado, una de sus cartas ya jugadas sera resaltada"
+Game.Skills.Who.False,Another character's card will be highlighted instead,La carta de otro jugador sera resaltada
 ,,
+Game.Card.Impostor.Title,Impostor,Impostor
+Game.Card.Impostor.Description,This card belongs to an impostor,Esta carta pertenece a un impostor
+Game.Card.Innocent.Title,Innocent,Inocente
+Game.Card.Innocent.Description,This card belongs to an innocent,Esta carta pertenece a un inocente
 ,,
-Game.UI.ClosedSign,Closed,Cerrado
+Game.IfTrue,IF THIS CARD IS REAL,SI ES VERDADERA
+Game.IfFalse,IF THIS CARD IS FAKE,SI ES FALSA
 ,,
+Game.ImpostorKill,YOU KILLED THE IMPOSTOR,MATASTE AL IMPOSTOR
+Game.InnocentKill,YOU KILLED AN INNOCENT,MATASTE A UN INOCENTE
 ,,
-,,
-Game.Item.Tooltip.Blunt,<size=30><sprite=4></size><space=3> <voffset=5>Blunt</voffset>,<size=30><sprite=4></size><space=3> <voffset=5>Contundente</voffset>
-Game.Item.Tooltip.Handle,<size=30><sprite=5></size><space=3> <voffset=5>Handle</voffset>,<size=30><sprite=5></size><space=3> <voffset=5>Mango</voffset>
-Game.Item.Tooltip.Guard,<size=30><sprite=1></size><space=3> <voffset=5>Guard</voffset>,<size=30><sprite=1></size><space=3> <voffset=5>Guarda</voffset>
-Game.Item.Tooltip.Sharp,<size=30><sprite=7></size><space=3> <voffset=5>Sharp</voffset>,<size=30><sprite=7></size><space=3> <voffset=5>Filoso</voffset>
-Game.Item.Tooltip.Defensive,<size=30><sprite=6></size><space=3> <voffset=5>Defensive</voffset>,<size=30><sprite=6></size><space=3> <voffset=5>Defensivo</voffset>
-Game.Item.Tooltip.Piercing,<size=30><sprite=3></size><space=3> <voffset=5>Piercing</voffset>,<size=30><sprite=3></size><space=3> <voffset=5>Punzante</voffset>
-Game.Item.Tooltip.Cutting,<size=30><sprite=2></size><space=3> <voffset=5>Cutting</voffset>,<size=30><sprite=2></size><space=3> <voffset=5>Cortante</voffset>
-,,
-Game.UI.Continue,Continue,Continuar
-,,
-Game.LevelSummary.Title,End of day {0},Fin del día {0}
-Game.LevelSummary.Description,Your Deliveries:,Tus entregas:
-Game.LevelSummary.Flawless,Flawless: {0} - ${1},PERFECTOS: {0} - ${1}
-Game.LevelSummary.Okay,Okay: {0} - ${1},ACEPTABLES: {0} - ${1}
-Game.LevelSummary.Missed,Missed: {0} - ${1},FALLIDOS: {0} - ${1}
+Game.Retry,Retry,Reintentar
+Game.BackToMenu,Back to Menu,Volver Al Menu

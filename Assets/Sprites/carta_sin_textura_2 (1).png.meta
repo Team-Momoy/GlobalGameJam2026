@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -116,12 +116,12 @@ TextureImporter:
       name: carta_sin_textura_2 (1)_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 149
-        width: 378
-        height: 608
+        x: 0
+        y: 0
+        width: 676
+        height: 906
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 375e0b9e32fd16e42be2cd6b97b48019
     internalID: 0
     vertices: []
     indices: 

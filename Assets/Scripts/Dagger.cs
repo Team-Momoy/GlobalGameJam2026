@@ -3,51 +3,38 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
-public class Dagger : MonoBehaviour
+public class Dagger : Interactable
 {
-    InputActions inputActions;
-
     bool isSelected = false;
 
     private Vector3 originalPosition;
 
-    void Awake()
+    protected override void Awake()
     {
+        base.Awake();
         originalPosition = transform.position;
     }
 
-    void OnEnable()
-    {
-        //Setup unity input system events
-        inputActions = new InputActions();
-        inputActions.UI.Click.started += SelectDagger;
-        inputActions.Enable();
-    }
-
-    private void SelectDagger(InputAction.CallbackContext context)
+    public void SelectDagger()
     {
         Vector2 screenPos = Mouse.current.position.ReadValue();
 
         Ray ray = Camera.main.ScreenPointToRay(screenPos);
         RaycastHit hit;
 
-        if (Physics.Raycast(ray, out hit))
+        if (!isSelected)
         {
-            if (hit.transform == transform)
+            if (Physics.Raycast(ray, out hit))
             {
-                Debug.Log("Dagger clicked!");
-                if (!isSelected)
+                if (hit.transform == transform)
                 {
                     MoveUpAndFloat();
+                    isSelected = true;
                 }
-                isSelected = true;
-
-                // Add additional logic for when the dagger is clicked
             }
         }
         else
         {
-            if(!isSelected) return;
             isSelected = false;
             ResetPosition();
         }
@@ -62,7 +49,7 @@ public class Dagger : MonoBehaviour
         sequence.Append(transform.DOMoveY(originalPosition.y + 3f, 1f).SetEase(Ease.OutBack));
 
         // Add a floating effect
-        sequence.Append(transform.DOMoveY(originalPosition.y + 2f, 2f).SetEase(Ease.InOutSine).SetLoops(-1, LoopType.Yoyo));
+        sequence.AppendCallback(() => transform.DOMoveY(originalPosition.y + 2f, 2f).SetEase(Ease.InOutSine).SetId("DaggerFloat").SetLoops(-1, LoopType.Yoyo));
         sequence.SetId("DaggerFloat");
     }
 
@@ -70,12 +57,7 @@ public class Dagger : MonoBehaviour
     {
         DOTween.Kill("DaggerFloat", false);
         transform.DOMove(originalPosition, 0.5f).SetId("DaggerFloat").SetEase(Ease.OutSine);
-    }
-
-    void OnDisable()
-    {
-        inputActions.UI.Click.performed -= SelectDagger;
-        inputActions.Disable();
+        transform.DORotate(new Vector3(0f, 0f, 0f), 0.5f).SetId("DaggerFloat").SetEase(Ease.OutSine);
     }
 
     void Update()
@@ -88,11 +70,26 @@ public class Dagger : MonoBehaviour
 
         if (Physics.Raycast(ray, out RaycastHit hit))
         {
+            if(!hit.transform.CompareTag("NPC")) return;
+
             Vector3 direction = hit.transform.position - transform.position;
+            if (direction.sqrMagnitude < 0.0001f) return;
 
             Quaternion targetRotation = Quaternion.LookRotation(direction);
 
             transform.DORotate(targetRotation.eulerAngles, 0.75f).SetId("DaggerPointing").SetEase(Ease.OutBack);
+
+            if (hit.transform.TryGetComponent(out MaskedNpc npc) && Pointer.current != null && Pointer.current.press.wasPressedThisFrame)
+            {
+                FindAnyObjectByType<CardManager>().IsDealing = true;
+                // Then move the dagger to the NPC over 0.5 seconds
+                transform.DOMove(hit.transform.position + direction.normalized * 2f, 0.15f).SetEase(Ease.InSine).OnComplete(() =>
+                {
+                    npc.DestroyMask();
+                    gameObject.SetActive(false);
+                });
+                return;
+            }
         }
     }
 }

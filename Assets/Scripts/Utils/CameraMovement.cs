@@ -1,3 +1,4 @@
+using DG.Tweening;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,9 +10,25 @@ public class CameraMovement : MonoBehaviour
 
     [SerializeField] private float speed = 5f;
 
+    private bool isMoving = true;
+
+    void Start()
+    {
+        transform.position = new Vector3(transform.position.x, 66, transform.position.z);
+    }
+
+    public void MoveCameraToGame()
+    {
+        transform.DOMoveY(16, 2f).SetEase(Ease.OutQuad).OnComplete(() =>
+        {
+            isMoving = false;
+        });
+    }
+
     // Make the camera rotate around the Y axis using the mouse position, and the new input system
     void Update()
     {
+        if (isMoving) return;
         float mouseX = Mouse.current.position.ReadValue().x - (Screen.width / 2);
 
         // Use mouse position relative to screen width to make camera rotation go from min to max but not more

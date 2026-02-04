@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 8b886e58fb0479b42962f98a268f5a05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7159868430989871865
+    second: POKER_FACE-07_0
+  - first:
+      213: -2881676638977095346
+    second: POKER_FACE-07_1
+  - first:
+      213: -3632892456679064378
+    second: POKER_FACE-07_2
+  - first:
+      213: 5058792779569415137
+    second: POKER_FACE-07_3
+  - first:
+      213: 1311990245950977190
+    second: POKER_FACE-07_4
+  - first:
+      213: -6382719684633319418
+    second: POKER_FACE-07_5
+  - first:
+      213: 4953705259815508608
+    second: POKER_FACE-07_6
+  - first:
+      213: -8674723664161316295
+    second: POKER_FACE-07_7
+  - first:
+      213: 323391672699717915
+    second: POKER_FACE-07_8
+  - first:
+      213: -3387014257583681211
+    second: POKER_FACE-07_9
+  - first:
+      213: 4115468178485822809
+    second: POKER_FACE-07_10
+  - first:
+      213: 5008309243062605095
+    second: POKER_FACE-07_11
+  - first:
+      213: 6964925463394790755
+    second: POKER_FACE-07_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POKER_FACE-07_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 404
+        width: 249
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705b05cb89903ac90800000000000000
+      internalID: -7159868430989871865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 406
+        width: 528
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e498a385d5a3208d0800000000000000
+      internalID: -2881676638977095346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_2
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 402
+        width: 255
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccb27cfe8f559dc0800000000000000
+      internalID: -3632892456679064378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 187
+        width: 118
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3cb8afa31743640800000000000000
+      internalID: 5058792779569415137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 207
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a47fae6d20253210800000000000000
+      internalID: 1311990245950977190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 220
+        width: 127
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608a98093460c67a0800000000000000
+      internalID: -6382719684633319418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 230
+        width: 99
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a994d10b81fb440800000000000000
+      internalID: 4953705259815508608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 223
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326df0c9c03d9780800000000000000
+      internalID: -8674723664161316295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_8
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 226
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19069e430bec7400800000000000000
+      internalID: 323391672699717915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 217
+        width: 115
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5419a875a78eef0d0800000000000000
+      internalID: -3387014257583681211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_10
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 207
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955421fe0841d1930800000000000000
+      internalID: 4115468178485822809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_11
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 197
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255d0ea8b6118540800000000000000
+      internalID: 5008309243062605095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POKER_FACE-07_12
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 183
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d28b4aec268a060800000000000000
+      internalID: 6964925463394790755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      POKER_FACE-07_0: -7159868430989871865
+      POKER_FACE-07_1: -2881676638977095346
+      POKER_FACE-07_10: 4115468178485822809
+      POKER_FACE-07_11: 5008309243062605095
+      POKER_FACE-07_12: 6964925463394790755
+      POKER_FACE-07_2: -3632892456679064378
+      POKER_FACE-07_3: 5058792779569415137
+      POKER_FACE-07_4: 1311990245950977190
+      POKER_FACE-07_5: -6382719684633319418
+      POKER_FACE-07_6: 4953705259815508608
+      POKER_FACE-07_7: -8674723664161316295
+      POKER_FACE-07_8: 323391672699717915
+      POKER_FACE-07_9: -3387014257583681211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
