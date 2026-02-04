@@ -48,6 +48,7 @@ MonoBehaviour:
         - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-5423032913610868260-847284065
         - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-4462058750643201685-0
         - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-3317748123247660891-0
+        - globalObjectIdString: GlobalObjectId_V1-2-8e9c01331b6804c4597aee2f83682287-8316958259437871738-0
         values:
         - colorIndex: 2
           iconNameOrGuid: StandaloneInputModule Icon
@@ -147,6 +148,10 @@ MonoBehaviour:
           isColorRecursive: 0
         - colorIndex: 8
           iconNameOrGuid: PreMatQuad
+          isIconRecursive: 0
+          isColorRecursive: 1
+        - colorIndex: 4
+          iconNameOrGuid: 
           isIconRecursive: 0
           isColorRecursive: 1
         - colorIndex: 4
