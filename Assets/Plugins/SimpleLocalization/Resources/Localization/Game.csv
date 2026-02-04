@@ -26,3 +26,5 @@ Game.BackToMenu,Back to Menu,Volver Al Menu
 Game.Guide.Title,Guide,Guia
 Game.Guide.Skills,"You've got 3 skills to identify the impostor, one of those skills will <u>always</u> be fake.","Tienes 3 habilidades para identificar al impostor, una de esas habilidades <u>siempre</u> sera falsa."
 Game.Guide.Dagger,"Once you identify the impostor, use the dagger to kill him.",Cuando hayas identificado al impostor usa la daga para asesinarlo.
+,,
+Game.Guide.Playing,"With each action, the masked characters will always play a card according to their role: <u>impostor</u> or <u>innocent</u>.","Con cada accion, los enmascarados jugaran siempre una carta acorde a su rol: <u>impostor</u> o <u>inocente.</u>"
