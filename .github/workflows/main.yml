@@ -66,5 +66,5 @@ jobs:
           BUTLER_API_KEY: ${{ secrets.BUTLER_CREDENTIALS }}
           PACKAGE: build/webgl
           CHANNEL: html
-          ITCH_GAME: global-game-jam-2026
+          ITCH_GAME: pokerface
           ITCH_USER: flaquero
